@@ -1,0 +1,58 @@
+rules_version = '2';
+
+// ⚠️ FILE NÀY GỘP RULES CỦA HAI APP DÙNG CHUNG PROJECT my-english-14fa9.
+//
+// Phần "My English" (app iOS + Cloud Functions) được chép nguyên văn từ rules
+// đang chạy trên production ngày 2026-08-08. KHÔNG sửa phần đó — nó cố tình cấm
+// client ghi để mọi luật nghiệp vụ đi qua callable.
+//
+// Phần "Bản đồ IELTS" ở cuối là phần thêm mới, nằm ở collection riêng bdi_users
+// nên không đụng gì tới dữ liệu của app iOS.
+service cloud.firestore {
+  match /databases/{database}/documents {
+
+    /* ===================== My English (giữ nguyên) ===================== */
+
+    // Hồ sơ người dùng: đọc được để giao diện biết đã liên kết Telegram chưa.
+    // Ghi thì không — kể cả chính chủ. Đổi giờ nhắc hay gỡ liên kết đều đi qua callable.
+    match /users/{uid} {
+      allow read: if request.auth != null && request.auth.uid == uid;
+      allow write: if false;
+
+      // Khay thẻ đến hạn và hàng đợi lượt chấm: chỉ backend đụng tới.
+      match /{sub=**} {
+        allow read, write: if false;
+      }
+    }
+
+    // Token liên kết Telegram. Đọc được thì lộ đường chiếm tài khoản: ai có token là
+    // gắn được Telegram của mình vào hồ sơ người khác.
+    match /link_tokens/{token} {
+      allow read, write: if false;
+    }
+
+    /* ===================== Bản đồ IELTS (thêm mới) ===================== */
+
+    // Tiến trình học của web Bản đồ IELTS. Khác với My English, app này không có
+    // backend riêng và cũng không có luật nghiệp vụ nào cần bảo vệ ở phía máy chủ:
+    // dữ liệu chỉ là tiến trình cá nhân, sai lệch thì thiệt cho chính người đó.
+    // Vì vậy cho client ghi thẳng, nhưng chặt phạm vi vào đúng uid của mình.
+    match /bdi_users/{uid} {
+      allow read: if request.auth != null && request.auth.uid == uid;
+      allow write: if request.auth != null
+                   && request.auth.uid == uid
+                   // Chặn ghi tài liệu khổng lồ làm phình hoá đơn.
+                   && request.resource.size() < 500 * 1024;
+
+      match /{sub=**} {
+        allow read, write: if false;
+      }
+    }
+
+    /* =================================================================== */
+
+    match /{document=**} {
+      allow read, write: if false;
+    }
+  }
+}

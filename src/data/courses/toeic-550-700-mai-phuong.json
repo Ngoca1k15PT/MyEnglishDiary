@@ -1,0 +1,5821 @@
+{
+  "id": "toeic-550-700-mai-phuong",
+  "title": "TOEIC 550-700+ — Cô Mai Phương",
+  "base": "/course/toeic-550-700-mai-phuong",
+  "generatedAt": "2026-08-26T12:04:56.438Z",
+  "stats": {
+    "sections": 6,
+    "lessons": 135,
+    "docs": 275,
+    "audios": 288,
+    "bytes": 270635599,
+    "exams": 88
+  },
+  "sections": [
+    {
+      "id": "part-1",
+      "title": "PART 1",
+      "order": null,
+      "lessons": [
+        {
+          "id": "part-1/01-part-1-photo-of-people",
+          "slug": "01-part-1-photo-of-people",
+          "title": "(Part 1). Photo of people",
+          "order": "01",
+          "groups": [
+            {
+              "title": null,
+              "items": [
+                {
+                  "kind": "theory",
+                  "label": "Dịch Từ Vựng P1",
+                  "src": "part-1/01-part-1-photo-of-people/dich-tu-vung-p1.pdf",
+                  "bytes": 584990
+                },
+                {
+                  "kind": "theory",
+                  "label": "Unit1 Photos Of People",
+                  "src": "part-1/01-part-1-photo-of-people/unit1-photos-of-people.pdf",
+                  "bytes": 2438481
+                }
+              ]
+            },
+            {
+              "title": "BT1",
+              "items": [
+                {
+                  "kind": "question",
+                  "label": "DE BT1",
+                  "src": "part-1/01-part-1-photo-of-people/bt1/de-bt1.pdf",
+                  "bytes": 1115750
+                },
+                {
+                  "kind": "answer",
+                  "label": "DA BT1",
+                  "src": "part-1/01-part-1-photo-of-people/bt1/da-bt1.pdf",
+                  "bytes": 229533
+                },
+                {
+                  "kind": "audio",
+                  "label": "BT 1 (01)",
+                  "src": "part-1/01-part-1-photo-of-people/bt1/bt-1-mp3-01.m4a",
+                  "bytes": 119553
+                },
+                {
+                  "kind": "audio",
+                  "label": "BT 1 (02)",
+                  "src": "part-1/01-part-1-photo-of-people/bt1/bt-1-mp3-02.m4a",
+                  "bytes": 141624
+                },
+                {
+                  "kind": "audio",
+                  "label": "BT 1 (03)",
+                  "src": "part-1/01-part-1-photo-of-people/bt1/bt-1-mp3-03.m4a",
+                  "bytes": 144204
+                },
+                {
+                  "kind": "audio",
+                  "label": "BT 1 (04)",
+                  "src": "part-1/01-part-1-photo-of-people/bt1/bt-1-mp3-04.m4a",
+                  "bytes": 143488
+                },
+                {
+                  "kind": "audio",
+                  "label": "BT 1 (05)",
+                  "src": "part-1/01-part-1-photo-of-people/bt1/bt-1-mp3-05.m4a",
+                  "bytes": 160399
+                },
+                {
+                  "kind": "audio",
+                  "label": "BT 1 (06)",
+                  "src": "part-1/01-part-1-photo-of-people/bt1/bt-1-mp3-06.m4a",
+                  "bytes": 150510
+                }
+              ]
+            },
+            {
+              "title": "BT2",
+              "items": [
+                {
+                  "kind": "question",
+                  "label": "DE BT2",
+                  "src": "part-1/01-part-1-photo-of-people/bt2/de-bt2.pdf",
+                  "bytes": 111987
+                },
+                {
+                  "kind": "answer",
+                  "label": "DA BT2",
+                  "src": "part-1/01-part-1-photo-of-people/bt2/da-bt2.pdf",
+                  "bytes": 105400
+                }
+              ]
+            },
+            {
+              "title": "BT3",
+              "items": [
+                {
+                  "kind": "question",
+                  "label": "DE BT3",
+                  "src": "part-1/01-part-1-photo-of-people/bt3/de-bt3.pdf",
+                  "bytes": 150455
+                },
+                {
+                  "kind": "answer",
+                  "label": "DA BT3",
+                  "src": "part-1/01-part-1-photo-of-people/bt3/da-bt3.pdf",
+                  "bytes": 149952
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "part-1/02-bai-thi-online-part-1-1",
+          "slug": "02-bai-thi-online-part-1-1",
+          "title": "Bài thi online Part 1 (1)",
+          "order": "02",
+          "groups": [
+            {
+              "title": null,
+              "items": [
+                {
+                  "kind": "question",
+                  "label": "DE 1",
+                  "src": "part-1/02-bai-thi-online-part-1-1/de-1.pdf",
+                  "bytes": 1301474
+                },
+                {
+                  "kind": "answer",
+                  "label": "DA 1",
+                  "src": "part-1/02-bai-thi-online-part-1-1/da-1.pdf",
+                  "bytes": 1556799
+                },
+                {
+                  "kind": "audio",
+                  "label": "01",
+                  "src": "part-1/02-bai-thi-online-part-1-1/01.m4a",
+                  "bytes": 139618
+                },
+                {
+                  "kind": "audio",
+                  "label": "02",
+                  "src": "part-1/02-bai-thi-online-part-1-1/02.m4a",
+                  "bytes": 143058
+                },
+                {
+                  "kind": "audio",
+                  "label": "03",
+                  "src": "part-1/02-bai-thi-online-part-1-1/03.m4a",
+                  "bytes": 138901
+                },
+                {
+                  "kind": "audio",
+                  "label": "04",
+                  "src": "part-1/02-bai-thi-online-part-1-1/04.m4a",
+                  "bytes": 135175
+                },
+                {
+                  "kind": "audio",
+                  "label": "05",
+                  "src": "part-1/02-bai-thi-online-part-1-1/05.m4a",
+                  "bytes": 142054
+                },
+                {
+                  "kind": "audio",
+                  "label": "06",
+                  "src": "part-1/02-bai-thi-online-part-1-1/06.m4a",
+                  "bytes": 135318
+                },
+                {
+                  "kind": "audio",
+                  "label": "07",
+                  "src": "part-1/02-bai-thi-online-part-1-1/07.m4a",
+                  "bytes": 140765
+                },
+                {
+                  "kind": "audio",
+                  "label": "08",
+                  "src": "part-1/02-bai-thi-online-part-1-1/08.m4a",
+                  "bytes": 140908
+                },
+                {
+                  "kind": "audio",
+                  "label": "09",
+                  "src": "part-1/02-bai-thi-online-part-1-1/09.m4a",
+                  "bytes": 144634
+                },
+                {
+                  "kind": "audio",
+                  "label": "10",
+                  "src": "part-1/02-bai-thi-online-part-1-1/10.m4a",
+                  "bytes": 152373
+                }
+              ],
+              "exam": {
+                "questions": 10,
+                "options": 4,
+                "seconds": 206,
+                "key": "ACDBAADCDC"
+              }
+            }
+          ]
+        },
+        {
+          "id": "part-1/03-bai-thi-online-part-1-2",
+          "slug": "03-bai-thi-online-part-1-2",
+          "title": "Bài thi online Part 1 (2)",
+          "order": "03",
+          "groups": [
+            {
+              "title": null,
+              "items": [
+                {
+                  "kind": "question",
+                  "label": "DE 2",
+                  "src": "part-1/03-bai-thi-online-part-1-2/de-2.pdf",
+                  "bytes": 1296397
+                },
+                {
+                  "kind": "answer",
+                  "label": "DA 2",
+                  "src": "part-1/03-bai-thi-online-part-1-2/da-2.pdf",
+                  "bytes": 1529109
+                },
+                {
+                  "kind": "audio",
+                  "label": "01",
+                  "src": "part-1/03-bai-thi-online-part-1-2/01.m4a",
+                  "bytes": 138471
+                },
+                {
+                  "kind": "audio",
+                  "label": "05",
+                  "src": "part-1/03-bai-thi-online-part-1-2/05.m4a",
+                  "bytes": 145064
+                },
+                {
+                  "kind": "audio",
+                  "label": "07",
+                  "src": "part-1/03-bai-thi-online-part-1-2/07.m4a",
+                  "bytes": 148934
+                },
+                {
+                  "kind": "audio",
+                  "label": "10",
+                  "src": "part-1/03-bai-thi-online-part-1-2/10.m4a",
+                  "bytes": 148934
+                }
+              ],
+              "exam": {
+                "questions": 10,
+                "options": 4,
+                "seconds": 287,
+                "key": "DCBBADDBBA"
+              }
+            }
+          ]
+        },
+        {
+          "id": "part-1/04-part-1-photo-of-objects-and-views-2",
+          "slug": "04-part-1-photo-of-objects-and-views-2",
+          "title": "(Part 1) Photo of objects and views (2)",
+          "order": "04",
+          "groups": [
+            {
+              "title": null,
+              "items": [
+                {
+                  "kind": "theory",
+                  "label": "Photo of objects and views(2)",
+                  "src": "part-1/04-part-1-photo-of-objects-and-views-2/photo-of-objects-and-views-2.pdf",
+                  "bytes": 2263186
+                }
+              ]
+            },
+            {
+              "title": "3.1.Unit 1",
+              "items": [
+                {
+                  "kind": "question",
+                  "label": "DE 5",
+                  "src": "part-1/04-part-1-photo-of-objects-and-views-2/3-1-unit-1/de-5.pdf",
+                  "bytes": 124537
+                },
+                {
+                  "kind": "answer",
+                  "label": "DA 5",
+                  "src": "part-1/04-part-1-photo-of-objects-and-views-2/3-1-unit-1/da-5.pdf",
+                  "bytes": 108227
+                },
+                {
+                  "kind": "audio",
+                  "label": "05",
+                  "src": "part-1/04-part-1-photo-of-objects-and-views-2/3-1-unit-1/05.m4a",
+                  "bytes": 134745
+                }
+              ]
+            },
+            {
+              "title": "3.2.Unit 2",
+              "items": [
+                {
+                  "kind": "question",
+                  "label": "DE 6",
+                  "src": "part-1/04-part-1-photo-of-objects-and-views-2/3-2-unit-2/de-6.pdf",
+                  "bytes": 139007
+                },
+                {
+                  "kind": "question",
+                  "label": "DE 7",
+                  "src": "part-1/04-part-1-photo-of-objects-and-views-2/3-2-unit-2/de-7.pdf",
+                  "bytes": 129527
+                },
+                {
+                  "kind": "answer",
+                  "label": "DA 7",
+                  "src": "part-1/04-part-1-photo-of-objects-and-views-2/3-2-unit-2/da-7.pdf",
+                  "bytes": 99520
+                },
+                {
+                  "kind": "audio",
+                  "label": "06",
+                  "src": "part-1/04-part-1-photo-of-objects-and-views-2/3-2-unit-2/06.m4a",
+                  "bytes": 118438
+                },
+                {
+                  "kind": "audio",
+                  "label": "07",
+                  "src": "part-1/04-part-1-photo-of-objects-and-views-2/3-2-unit-2/07.m4a",
+                  "bytes": 230228
+                }
+              ]
+            },
+            {
+              "title": "3.4.Unit 1",
+              "items": [
+                {
+                  "kind": "question",
+                  "label": "DE 1",
+                  "src": "part-1/04-part-1-photo-of-objects-and-views-2/3-4-unit-1/de-1.pdf",
+                  "bytes": 230833
+                },
+                {
+                  "kind": "answer",
+                  "label": "DA 1",
+                  "src": "part-1/04-part-1-photo-of-objects-and-views-2/3-4-unit-1/da-1.pdf",
+                  "bytes": 214331
+                },
+                {
+                  "kind": "audio",
+                  "label": "01",
+                  "src": "part-1/04-part-1-photo-of-objects-and-views-2/3-4-unit-1/01.m4a",
+                  "bytes": 177245
+                }
+              ]
+            },
+            {
+              "title": "3.5.Unit 1",
+              "items": [
+                {
+                  "kind": "question",
+                  "label": "DE 2",
+                  "src": "part-1/04-part-1-photo-of-objects-and-views-2/3-5-unit-1/de-2.pdf",
+                  "bytes": 128759
+                },
+                {
+                  "kind": "answer",
+                  "label": "DA 2",
+                  "src": "part-1/04-part-1-photo-of-objects-and-views-2/3-5-unit-1/da-2.pdf",
+                  "bytes": 99492
+                },
+                {
+                  "kind": "audio",
+                  "label": "02",
+                  "src": "part-1/04-part-1-photo-of-objects-and-views-2/3-5-unit-1/02.m4a",
+                  "bytes": 224352
+                }
+              ]
+            },
+            {
+              "title": "3.5.Unit 2",
+              "items": [
+                {
+                  "kind": "question",
+                  "label": "DE 9",
+                  "src": "part-1/04-part-1-photo-of-objects-and-views-2/3-5-unit-2/de-9.pdf",
+                  "bytes": 153472
+                },
+                {
+                  "kind": "audio",
+                  "label": "09",
+                  "src": "part-1/04-part-1-photo-of-objects-and-views-2/3-5-unit-2/09.m4a",
+                  "bytes": 144236
+                }
+              ]
+            },
+            {
+              "title": "3.6.Unit 1",
+              "items": [
+                {
+                  "kind": "question",
+                  "label": "DE 3",
+                  "src": "part-1/04-part-1-photo-of-objects-and-views-2/3-6-unit-1/de-3.pdf",
+                  "bytes": 263042
+                },
+                {
+                  "kind": "answer",
+                  "label": "DA 3",
+                  "src": "part-1/04-part-1-photo-of-objects-and-views-2/3-6-unit-1/da-3.pdf",
+                  "bytes": 249039
+                },
+                {
+                  "kind": "audio",
+                  "label": "03",
+                  "src": "part-1/04-part-1-photo-of-objects-and-views-2/3-6-unit-1/03.m4a",
+                  "bytes": 176340
+                }
+              ]
+            },
+            {
+              "title": "3.6.Unit2",
+              "items": [
+                {
+                  "kind": "question",
+                  "label": "DE 10",
+                  "src": "part-1/04-part-1-photo-of-objects-and-views-2/3-6-unit2/de-10.pdf",
+                  "bytes": 142640
+                },
+                {
+                  "kind": "answer",
+                  "label": "DA 10",
+                  "src": "part-1/04-part-1-photo-of-objects-and-views-2/3-6-unit2/da-10.pdf",
+                  "bytes": 128901
+                },
+                {
+                  "kind": "audio",
+                  "label": "10",
+                  "src": "part-1/04-part-1-photo-of-objects-and-views-2/3-6-unit2/10.m4a",
+                  "bytes": 168457
+                }
+              ]
+            },
+            {
+              "title": "3.7.Unit 1",
+              "items": [
+                {
+                  "kind": "question",
+                  "label": "DE 4",
+                  "src": "part-1/04-part-1-photo-of-objects-and-views-2/3-7-unit-1/de-4.pdf",
+                  "bytes": 320074
+                },
+                {
+                  "kind": "answer",
+                  "label": "DA 4",
+                  "src": "part-1/04-part-1-photo-of-objects-and-views-2/3-7-unit-1/da-4.pdf",
+                  "bytes": 319534
+                },
+                {
+                  "kind": "audio",
+                  "label": "04",
+                  "src": "part-1/04-part-1-photo-of-objects-and-views-2/3-7-unit-1/04.m4a",
+                  "bytes": 979902
+                }
+              ],
+              "exam": {
+                "questions": 6,
+                "options": 4,
+                "key": "CABDDC"
+              }
+            },
+            {
+              "title": "3.7.Unit 1 / 3.4.Unit 2",
+              "items": [
+                {
+                  "kind": "question",
+                  "label": "DE 8",
+                  "src": "part-1/04-part-1-photo-of-objects-and-views-2/3-7-unit-1/3-4-unit-2/de-8.pdf",
+                  "bytes": 174452
+                },
+                {
+                  "kind": "answer",
+                  "label": "DA 8",
+                  "src": "part-1/04-part-1-photo-of-objects-and-views-2/3-7-unit-1/3-4-unit-2/da-8.pdf",
+                  "bytes": 165640
+                },
+                {
+                  "kind": "audio",
+                  "label": "08",
+                  "src": "part-1/04-part-1-photo-of-objects-and-views-2/3-7-unit-1/3-4-unit-2/08.m4a",
+                  "bytes": 176769
+                }
+              ]
+            },
+            {
+              "title": "3.7.Unit 2",
+              "items": [
+                {
+                  "kind": "question",
+                  "label": "DE 11",
+                  "src": "part-1/04-part-1-photo-of-objects-and-views-2/3-7-unit-2/de-11.pdf",
+                  "bytes": 125339
+                },
+                {
+                  "kind": "answer",
+                  "label": "DA 11",
+                  "src": "part-1/04-part-1-photo-of-objects-and-views-2/3-7-unit-2/da-11.pdf",
+                  "bytes": 95590
+                },
+                {
+                  "kind": "audio",
+                  "label": "11",
+                  "src": "part-1/04-part-1-photo-of-objects-and-views-2/3-7-unit-2/11.m4a",
+                  "bytes": 146493
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "part-1/05-bai-thi-online-part-1-3",
+          "slug": "05-bai-thi-online-part-1-3",
+          "title": "Bài thi online Part 1 (3)",
+          "order": "05",
+          "groups": [
+            {
+              "title": null,
+              "items": [
+                {
+                  "kind": "question",
+                  "label": "DE 1",
+                  "src": "part-1/05-bai-thi-online-part-1-3/de-1.pdf",
+                  "bytes": 2010501
+                },
+                {
+                  "kind": "answer",
+                  "label": "DA 1",
+                  "src": "part-1/05-bai-thi-online-part-1-3/da-1.pdf",
+                  "bytes": 2277823
+                },
+                {
+                  "kind": "audio",
+                  "label": "01",
+                  "src": "part-1/05-bai-thi-online-part-1-3/01.m4a",
+                  "bytes": 141051
+                },
+                {
+                  "kind": "audio",
+                  "label": "02",
+                  "src": "part-1/05-bai-thi-online-part-1-3/02.m4a",
+                  "bytes": 141624
+                },
+                {
+                  "kind": "audio",
+                  "label": "03",
+                  "src": "part-1/05-bai-thi-online-part-1-3/03.m4a",
+                  "bytes": 142771
+                },
+                {
+                  "kind": "audio",
+                  "label": "04",
+                  "src": "part-1/05-bai-thi-online-part-1-3/04.m4a",
+                  "bytes": 142914
+                },
+                {
+                  "kind": "audio",
+                  "label": "05",
+                  "src": "part-1/05-bai-thi-online-part-1-3/05.m4a",
+                  "bytes": 154093
+                },
+                {
+                  "kind": "audio",
+                  "label": "06",
+                  "src": "part-1/05-bai-thi-online-part-1-3/06.m4a",
+                  "bytes": 146211
+                },
+                {
+                  "kind": "audio",
+                  "label": "07",
+                  "src": "part-1/05-bai-thi-online-part-1-3/07.m4a",
+                  "bytes": 152087
+                },
+                {
+                  "kind": "audio",
+                  "label": "08",
+                  "src": "part-1/05-bai-thi-online-part-1-3/08.m4a",
+                  "bytes": 146497
+                },
+                {
+                  "kind": "audio",
+                  "label": "09",
+                  "src": "part-1/05-bai-thi-online-part-1-3/09.m4a",
+                  "bytes": 152373
+                },
+                {
+                  "kind": "audio",
+                  "label": "10",
+                  "src": "part-1/05-bai-thi-online-part-1-3/10.m4a",
+                  "bytes": 152660
+                }
+              ],
+              "exam": {
+                "questions": 10,
+                "options": 4,
+                "seconds": 293,
+                "key": "BACDACABCC"
+              }
+            }
+          ]
+        },
+        {
+          "id": "part-1/06-bai-thi-online-part-1-4",
+          "slug": "06-bai-thi-online-part-1-4",
+          "title": "Bài thi online Part 1 (4)",
+          "order": "06",
+          "groups": [
+            {
+              "title": null,
+              "items": [
+                {
+                  "kind": "question",
+                  "label": "DE 2",
+                  "src": "part-1/06-bai-thi-online-part-1-4/de-2.pdf",
+                  "bytes": 1748378
+                },
+                {
+                  "kind": "answer",
+                  "label": "DA 2",
+                  "src": "part-1/06-bai-thi-online-part-1-4/da-2.pdf",
+                  "bytes": 2003832
+                },
+                {
+                  "kind": "audio",
+                  "label": "01-1",
+                  "src": "part-1/06-bai-thi-online-part-1-4/01-1.m4a",
+                  "bytes": 139905
+                },
+                {
+                  "kind": "audio",
+                  "label": "02-1",
+                  "src": "part-1/06-bai-thi-online-part-1-4/02-1.m4a",
+                  "bytes": 138901
+                },
+                {
+                  "kind": "audio",
+                  "label": "03-1",
+                  "src": "part-1/06-bai-thi-online-part-1-4/03-1.m4a",
+                  "bytes": 143918
+                },
+                {
+                  "kind": "audio",
+                  "label": "04-1",
+                  "src": "part-1/06-bai-thi-online-part-1-4/04-1.m4a",
+                  "bytes": 140048
+                },
+                {
+                  "kind": "audio",
+                  "label": "05-1",
+                  "src": "part-1/06-bai-thi-online-part-1-4/05-1.m4a",
+                  "bytes": 142341
+                },
+                {
+                  "kind": "audio",
+                  "label": "06-1",
+                  "src": "part-1/06-bai-thi-online-part-1-4/06-1.m4a",
+                  "bytes": 143631
+                },
+                {
+                  "kind": "audio",
+                  "label": "07-1",
+                  "src": "part-1/06-bai-thi-online-part-1-4/07-1.m4a",
+                  "bytes": 142771
+                },
+                {
+                  "kind": "audio",
+                  "label": "08-1",
+                  "src": "part-1/06-bai-thi-online-part-1-4/08-1.m4a",
+                  "bytes": 139761
+                },
+                {
+                  "kind": "audio",
+                  "label": "09-1",
+                  "src": "part-1/06-bai-thi-online-part-1-4/09-1.m4a",
+                  "bytes": 157676
+                },
+                {
+                  "kind": "audio",
+                  "label": "10-1",
+                  "src": "part-1/06-bai-thi-online-part-1-4/10-1.m4a",
+                  "bytes": 152803
+                }
+              ],
+              "exam": {
+                "questions": 10,
+                "options": 4,
+                "seconds": 294,
+                "key": "BDDCCBACCD"
+              }
+            }
+          ]
+        },
+        {
+          "id": "part-1/08-bai-thi-online-part-1-5",
+          "slug": "08-bai-thi-online-part-1-5",
+          "title": "Bài thi online Part 1 (5)",
+          "order": "08",
+          "groups": [
+            {
+              "title": null,
+              "items": [
+                {
+                  "kind": "question",
+                  "label": "DE 1",
+                  "src": "part-1/08-bai-thi-online-part-1-5/de-1.pdf",
+                  "bytes": 1521767
+                },
+                {
+                  "kind": "answer",
+                  "label": "DA 1",
+                  "src": "part-1/08-bai-thi-online-part-1-5/da-1.pdf",
+                  "bytes": 1789688
+                },
+                {
+                  "kind": "audio",
+                  "label": "01",
+                  "src": "part-1/08-bai-thi-online-part-1-5/01.m4a",
+                  "bytes": 140335
+                },
+                {
+                  "kind": "audio",
+                  "label": "02",
+                  "src": "part-1/08-bai-thi-online-part-1-5/02.m4a",
+                  "bytes": 142341
+                },
+                {
+                  "kind": "audio",
+                  "label": "03",
+                  "src": "part-1/08-bai-thi-online-part-1-5/03.m4a",
+                  "bytes": 148790
+                },
+                {
+                  "kind": "audio",
+                  "label": "04",
+                  "src": "part-1/08-bai-thi-online-part-1-5/04.m4a",
+                  "bytes": 155526
+                },
+                {
+                  "kind": "audio",
+                  "label": "05",
+                  "src": "part-1/08-bai-thi-online-part-1-5/05.m4a",
+                  "bytes": 150367
+                },
+                {
+                  "kind": "audio",
+                  "label": "06",
+                  "src": "part-1/08-bai-thi-online-part-1-5/06.m4a",
+                  "bytes": 147501
+                },
+                {
+                  "kind": "audio",
+                  "label": "07",
+                  "src": "part-1/08-bai-thi-online-part-1-5/07.m4a",
+                  "bytes": 142198
+                },
+                {
+                  "kind": "audio",
+                  "label": "08",
+                  "src": "part-1/08-bai-thi-online-part-1-5/08.m4a",
+                  "bytes": 146211
+                },
+                {
+                  "kind": "audio",
+                  "label": "09",
+                  "src": "part-1/08-bai-thi-online-part-1-5/09.m4a",
+                  "bytes": 141481
+                },
+                {
+                  "kind": "audio",
+                  "label": "10",
+                  "src": "part-1/08-bai-thi-online-part-1-5/10.m4a",
+                  "bytes": 153663
+                }
+              ],
+              "exam": {
+                "questions": 10,
+                "options": 4,
+                "seconds": 290,
+                "key": "ABDBCACBAD"
+              }
+            }
+          ]
+        },
+        {
+          "id": "part-1/09-bai-thi-online-part-1-6",
+          "slug": "09-bai-thi-online-part-1-6",
+          "title": "Bài thi online Part 1 (6)",
+          "order": "09",
+          "groups": [
+            {
+              "title": null,
+              "items": [
+                {
+                  "kind": "question",
+                  "label": "DE 2",
+                  "src": "part-1/09-bai-thi-online-part-1-6/de-2.pdf",
+                  "bytes": 1273634
+                },
+                {
+                  "kind": "answer",
+                  "label": "DA 2",
+                  "src": "part-1/09-bai-thi-online-part-1-6/da-2.pdf",
+                  "bytes": 1456894
+                },
+                {
+                  "kind": "audio",
+                  "label": "01",
+                  "src": "part-1/09-bai-thi-online-part-1-6/01.m4a",
+                  "bytes": 1810025
+                }
+              ],
+              "exam": {
+                "questions": 10,
+                "options": 4,
+                "seconds": 192,
+                "key": "BDCDADBCAD"
+              }
+            }
+          ]
+        },
+        {
+          "id": "part-1/10-part-1-practice-2",
+          "slug": "10-part-1-practice-2",
+          "title": "(Part 1) Practice 2",
+          "order": "10",
+          "groups": [
+            {
+              "title": null,
+              "items": [
+                {
+                  "kind": "question",
+                  "label": "Unit 4 Practice",
+                  "src": "part-1/10-part-1-practice-2/unit-4-practice.pdf",
+                  "bytes": 2737312
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "part-1/11-bai-thi-online-part-1-7",
+          "slug": "11-bai-thi-online-part-1-7",
+          "title": "Bài thi online Part 1 (7)",
+          "order": "11",
+          "groups": [
+            {
+              "title": null,
+              "items": [
+                {
+                  "kind": "question",
+                  "label": "DE 1",
+                  "src": "part-1/11-bai-thi-online-part-1-7/de-1.pdf",
+                  "bytes": 1535469
+                },
+                {
+                  "kind": "answer",
+                  "label": "DA 1",
+                  "src": "part-1/11-bai-thi-online-part-1-7/da-1.pdf",
+                  "bytes": 1715917
+                },
+                {
+                  "kind": "audio",
+                  "label": "01",
+                  "src": "part-1/11-bai-thi-online-part-1-7/01.m4a",
+                  "bytes": 2113863
+                }
+              ],
+              "exam": {
+                "questions": 10,
+                "options": 4,
+                "seconds": 351,
+                "key": "BAADABBDAC"
+              }
+            }
+          ]
+        },
+        {
+          "id": "part-1/12-bai-thi-online-part-1-8",
+          "slug": "12-bai-thi-online-part-1-8",
+          "title": "Bài thi online Part 1 (8)",
+          "order": "12",
+          "groups": [
+            {
+              "title": null,
+              "items": [
+                {
+                  "kind": "question",
+                  "label": "DE 2",
+                  "src": "part-1/12-bai-thi-online-part-1-8/de-2.pdf",
+                  "bytes": 1061950
+                },
+                {
+                  "kind": "answer",
+                  "label": "DA 2",
+                  "src": "part-1/12-bai-thi-online-part-1-8/da-2.pdf",
+                  "bytes": 1236236
+                },
+                {
+                  "kind": "audio",
+                  "label": "01 (1)",
+                  "src": "part-1/12-bai-thi-online-part-1-8/01-1.m4a",
+                  "bytes": 1803863
+                }
+              ],
+              "exam": {
+                "questions": 10,
+                "options": 4,
+                "seconds": 295,
+                "key": "DACDBCDACA"
+              }
+            }
+          ]
+        },
+        {
+          "id": "part-1/13-part-1-practice-3",
+          "slug": "13-part-1-practice-3",
+          "title": "(Part 1) Practice 3",
+          "order": "13",
+          "groups": [
+            {
+              "title": null,
+              "items": [
+                {
+                  "kind": "question",
+                  "label": "Unit5 Practice",
+                  "src": "part-1/13-part-1-practice-3/unit5-practice.pdf",
+                  "bytes": 2559977
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "part-1/14-bai-thi-online-part-1-9",
+          "slug": "14-bai-thi-online-part-1-9",
+          "title": "Bài thi online Part 1 (9)",
+          "order": "14",
+          "groups": [
+            {
+              "title": null,
+              "items": [
+                {
+                  "kind": "question",
+                  "label": "DE 1",
+                  "src": "part-1/14-bai-thi-online-part-1-9/de-1.pdf",
+                  "bytes": 1163381
+                },
+                {
+                  "kind": "answer",
+                  "label": "DA 1",
+                  "src": "part-1/14-bai-thi-online-part-1-9/da-1.pdf",
+                  "bytes": 1351719
+                },
+                {
+                  "kind": "audio",
+                  "label": "01",
+                  "src": "part-1/14-bai-thi-online-part-1-9/01.m4a",
+                  "bytes": 1847719
+                }
+              ],
+              "exam": {
+                "questions": 10,
+                "options": 4,
+                "seconds": 579,
+                "key": "ADCBACBCBD"
+              }
+            }
+          ]
+        },
+        {
+          "id": "part-1/15-bai-thi-online-part-1-10",
+          "slug": "15-bai-thi-online-part-1-10",
+          "title": "Bài thi online Part 1 (10)",
+          "order": "15",
+          "groups": [
+            {
+              "title": null,
+              "items": [
+                {
+                  "kind": "question",
+                  "label": "DE 2",
+                  "src": "part-1/15-bai-thi-online-part-1-10/de-2.pdf",
+                  "bytes": 1183258
+                },
+                {
+                  "kind": "answer",
+                  "label": "DA 2",
+                  "src": "part-1/15-bai-thi-online-part-1-10/da-2.pdf",
+                  "bytes": 1374593
+                },
+                {
+                  "kind": "audio",
+                  "label": "02",
+                  "src": "part-1/15-bai-thi-online-part-1-10/02.m4a",
+                  "bytes": 1828944
+                }
+              ],
+              "exam": {
+                "questions": 10,
+                "options": 4,
+                "seconds": 272,
+                "key": "BABDCCBBCB"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "part-2",
+      "title": "PART 2",
+      "order": null,
+      "lessons": [
+        {
+          "id": "part-2/01-part-2-wh-question",
+          "slug": "01-part-2-wh-question",
+          "title": "(Part 2) Wh - question",
+          "order": "01",
+          "groups": [
+            {
+              "title": null,
+              "items": [
+                {
+                  "kind": "theory",
+                  "label": "Unit 1 (Part 2) Wh - question (1)",
+                  "src": "part-2/01-part-2-wh-question/unit-1-part-2-wh-question-1.pdf",
+                  "bytes": 252167
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "part-2/02-bai-thi-online-part-2-1",
+          "slug": "02-bai-thi-online-part-2-1",
+          "title": "Bài thi online Part 2 (1)",
+          "order": "02",
+          "groups": [
+            {
+              "title": null,
+              "items": [
+                {
+                  "kind": "question",
+                  "label": "DE 1",
+                  "src": "part-2/02-bai-thi-online-part-2-1/de-1.pdf",
+                  "bytes": 277905
+                },
+                {
+                  "kind": "answer",
+                  "label": "DA 1",
+                  "src": "part-2/02-bai-thi-online-part-2-1/da-1.pdf",
+                  "bytes": 2115534
+                },
+                {
+                  "kind": "audio",
+                  "label": "01",
+                  "src": "part-2/02-bai-thi-online-part-2-1/01.m4a",
+                  "bytes": 97912
+                },
+                {
+                  "kind": "audio",
+                  "label": "02",
+                  "src": "part-2/02-bai-thi-online-part-2-1/02.m4a",
+                  "bytes": 103645
+                },
+                {
+                  "kind": "audio",
+                  "label": "03",
+                  "src": "part-2/02-bai-thi-online-part-2-1/03.m4a",
+                  "bytes": 92752
+                },
+                {
+                  "kind": "audio",
+                  "label": "05",
+                  "src": "part-2/02-bai-thi-online-part-2-1/05.m4a",
+                  "bytes": 97912
+                },
+                {
+                  "kind": "audio",
+                  "label": "09",
+                  "src": "part-2/02-bai-thi-online-part-2-1/09.m4a",
+                  "bytes": 110237
+                },
+                {
+                  "kind": "audio",
+                  "label": "11",
+                  "src": "part-2/02-bai-thi-online-part-2-1/11.m4a",
+                  "bytes": 102212
+                },
+                {
+                  "kind": "audio",
+                  "label": "13",
+                  "src": "part-2/02-bai-thi-online-part-2-1/13.m4a",
+                  "bytes": 109378
+                },
+                {
+                  "kind": "audio",
+                  "label": "14",
+                  "src": "part-2/02-bai-thi-online-part-2-1/14.m4a",
+                  "bytes": 109378
+                },
+                {
+                  "kind": "audio",
+                  "label": "17",
+                  "src": "part-2/02-bai-thi-online-part-2-1/17.m4a",
+                  "bytes": 101495
+                },
+                {
+                  "kind": "audio",
+                  "label": "18",
+                  "src": "part-2/02-bai-thi-online-part-2-1/18.m4a",
+                  "bytes": 95619
+                },
+                {
+                  "kind": "audio",
+                  "label": "19",
+                  "src": "part-2/02-bai-thi-online-part-2-1/19.m4a",
+                  "bytes": 104361
+                },
+                {
+                  "kind": "audio",
+                  "label": "20",
+                  "src": "part-2/02-bai-thi-online-part-2-1/20.m4a",
+                  "bytes": 110667
+                },
+                {
+                  "kind": "audio",
+                  "label": "21",
+                  "src": "part-2/02-bai-thi-online-part-2-1/21.m4a",
+                  "bytes": 108088
+                },
+                {
+                  "kind": "audio",
+                  "label": "22",
+                  "src": "part-2/02-bai-thi-online-part-2-1/22.m4a",
+                  "bytes": 106654
+                },
+                {
+                  "kind": "audio",
+                  "label": "23",
+                  "src": "part-2/02-bai-thi-online-part-2-1/23.m4a",
+                  "bytes": 115397
+                },
+                {
+                  "kind": "audio",
+                  "label": "24",
+                  "src": "part-2/02-bai-thi-online-part-2-1/24.m4a",
+                  "bytes": 109521
+                },
+                {
+                  "kind": "audio",
+                  "label": "25",
+                  "src": "part-2/02-bai-thi-online-part-2-1/25.m4a",
+                  "bytes": 112961
+                },
+                {
+                  "kind": "audio",
+                  "label": "26",
+                  "src": "part-2/02-bai-thi-online-part-2-1/26.m4a",
+                  "bytes": 115397
+                },
+                {
+                  "kind": "audio",
+                  "label": "27",
+                  "src": "part-2/02-bai-thi-online-part-2-1/27.m4a",
+                  "bytes": 128296
+                },
+                {
+                  "kind": "audio",
+                  "label": "28",
+                  "src": "part-2/02-bai-thi-online-part-2-1/28.m4a",
+                  "bytes": 115110
+                },
+                {
+                  "kind": "audio",
+                  "label": "30",
+                  "src": "part-2/02-bai-thi-online-part-2-1/30.m4a",
+                  "bytes": 106511
+                }
+              ],
+              "exam": {
+                "questions": 30,
+                "options": 3,
+                "seconds": 399,
+                "key": "BBCBCCBCBBABCCAABCBCABCACABCBC"
+              }
+            }
+          ]
+        },
+        {
+          "id": "part-2/03-part-2-wh-question-2",
+          "slug": "03-part-2-wh-question-2",
+          "title": "(Part 2) Wh-question (2)",
+          "order": "03",
+          "groups": [
+            {
+              "title": null,
+              "items": [
+                {
+                  "kind": "theory",
+                  "label": "Unit 2 (Part 2) Wh - question (2)",
+                  "src": "part-2/03-part-2-wh-question-2/unit-2-part-2-wh-question-2.pdf",
+                  "bytes": 264826
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "part-2/04-bai-thi-online-part-2-2",
+          "slug": "04-bai-thi-online-part-2-2",
+          "title": "Bài thi online Part 2 (2)",
+          "order": "04",
+          "groups": [
+            {
+              "title": null,
+              "items": [
+                {
+                  "kind": "question",
+                  "label": "DE",
+                  "src": "part-2/04-bai-thi-online-part-2-2/de.pdf",
+                  "bytes": 276014
+                },
+                {
+                  "kind": "answer",
+                  "label": "DA",
+                  "src": "part-2/04-bai-thi-online-part-2-2/da.pdf",
+                  "bytes": 870437
+                },
+                {
+                  "kind": "audio",
+                  "label": "01",
+                  "src": "part-2/04-bai-thi-online-part-2-2/01.m4a",
+                  "bytes": 92322
+                },
+                {
+                  "kind": "audio",
+                  "label": "02",
+                  "src": "part-2/04-bai-thi-online-part-2-2/02.m4a",
+                  "bytes": 89313
+                },
+                {
+                  "kind": "audio",
+                  "label": "03",
+                  "src": "part-2/04-bai-thi-online-part-2-2/03.m4a",
+                  "bytes": 100062
+                },
+                {
+                  "kind": "audio",
+                  "label": "04",
+                  "src": "part-2/04-bai-thi-online-part-2-2/04.m4a",
+                  "bytes": 94042
+                },
+                {
+                  "kind": "audio",
+                  "label": "05",
+                  "src": "part-2/04-bai-thi-online-part-2-2/05.m4a",
+                  "bytes": 90603
+                },
+                {
+                  "kind": "audio",
+                  "label": "06",
+                  "src": "part-2/04-bai-thi-online-part-2-2/06.m4a",
+                  "bytes": 106511
+                },
+                {
+                  "kind": "audio",
+                  "label": "07",
+                  "src": "part-2/04-bai-thi-online-part-2-2/07.m4a",
+                  "bytes": 103788
+                },
+                {
+                  "kind": "audio",
+                  "label": "08",
+                  "src": "part-2/04-bai-thi-online-part-2-2/08.m4a",
+                  "bytes": 111671
+                },
+                {
+                  "kind": "audio",
+                  "label": "09",
+                  "src": "part-2/04-bai-thi-online-part-2-2/09.m4a",
+                  "bytes": 98485
+                },
+                {
+                  "kind": "audio",
+                  "label": "10",
+                  "src": "part-2/04-bai-thi-online-part-2-2/10.m4a",
+                  "bytes": 101065
+                },
+                {
+                  "kind": "audio",
+                  "label": "11",
+                  "src": "part-2/04-bai-thi-online-part-2-2/11.m4a",
+                  "bytes": 113820
+                },
+                {
+                  "kind": "audio",
+                  "label": "12",
+                  "src": "part-2/04-bai-thi-online-part-2-2/12.m4a",
+                  "bytes": 120700
+                },
+                {
+                  "kind": "audio",
+                  "label": "13",
+                  "src": "part-2/04-bai-thi-online-part-2-2/13.m4a",
+                  "bytes": 103931
+                },
+                {
+                  "kind": "audio",
+                  "label": "14",
+                  "src": "part-2/04-bai-thi-online-part-2-2/14.m4a",
+                  "bytes": 110237
+                },
+                {
+                  "kind": "audio",
+                  "label": "15",
+                  "src": "part-2/04-bai-thi-online-part-2-2/15.m4a",
+                  "bytes": 112531
+                },
+                {
+                  "kind": "audio",
+                  "label": "16",
+                  "src": "part-2/04-bai-thi-online-part-2-2/16.m4a",
+                  "bytes": 115254
+                },
+                {
+                  "kind": "audio",
+                  "label": "17",
+                  "src": "part-2/04-bai-thi-online-part-2-2/17.m4a",
+                  "bytes": 115254
+                },
+                {
+                  "kind": "audio",
+                  "label": "18",
+                  "src": "part-2/04-bai-thi-online-part-2-2/18.m4a",
+                  "bytes": 102785
+                },
+                {
+                  "kind": "audio",
+                  "label": "19",
+                  "src": "part-2/04-bai-thi-online-part-2-2/19.m4a",
+                  "bytes": 111241
+                },
+                {
+                  "kind": "audio",
+                  "label": "20",
+                  "src": "part-2/04-bai-thi-online-part-2-2/20.m4a",
+                  "bytes": 94472
+                },
+                {
+                  "kind": "audio",
+                  "label": "21",
+                  "src": "part-2/04-bai-thi-online-part-2-2/21.m4a",
+                  "bytes": 112817
+                },
+                {
+                  "kind": "audio",
+                  "label": "22",
+                  "src": "part-2/04-bai-thi-online-part-2-2/22.m4a",
+                  "bytes": 104648
+                },
+                {
+                  "kind": "audio",
+                  "label": "23",
+                  "src": "part-2/04-bai-thi-online-part-2-2/23.m4a",
+                  "bytes": 95905
+                },
+                {
+                  "kind": "audio",
+                  "label": "24",
+                  "src": "part-2/04-bai-thi-online-part-2-2/24.m4a",
+                  "bytes": 112674
+                },
+                {
+                  "kind": "audio",
+                  "label": "25",
+                  "src": "part-2/04-bai-thi-online-part-2-2/25.m4a",
+                  "bytes": 102928
+                },
+                {
+                  "kind": "audio",
+                  "label": "26",
+                  "src": "part-2/04-bai-thi-online-part-2-2/26.m4a",
+                  "bytes": 109234
+                },
+                {
+                  "kind": "audio",
+                  "label": "27",
+                  "src": "part-2/04-bai-thi-online-part-2-2/27.m4a",
+                  "bytes": 106798
+                },
+                {
+                  "kind": "audio",
+                  "label": "28",
+                  "src": "part-2/04-bai-thi-online-part-2-2/28.m4a",
+                  "bytes": 107944
+                },
+                {
+                  "kind": "audio",
+                  "label": "29",
+                  "src": "part-2/04-bai-thi-online-part-2-2/29.m4a",
+                  "bytes": 130159
+                },
+                {
+                  "kind": "audio",
+                  "label": "30",
+                  "src": "part-2/04-bai-thi-online-part-2-2/30.m4a",
+                  "bytes": 107228
+                }
+              ],
+              "exam": {
+                "questions": 30,
+                "options": 3,
+                "seconds": 889,
+                "key": "ACBCAACCBABACACAABBAAABACABACB"
+              }
+            }
+          ]
+        },
+        {
+          "id": "part-2/05-part2-yes-no-question-1",
+          "slug": "05-part2-yes-no-question-1",
+          "title": "(Part2) Yes - No question (1)",
+          "order": "05",
+          "groups": [
+            {
+              "title": null,
+              "items": [
+                {
+                  "kind": "theory",
+                  "label": "Unit 3 (Part 2) Yes - No question (1)",
+                  "src": "part-2/05-part2-yes-no-question-1/unit-3-part-2-yes-no-question-1.pdf",
+                  "bytes": 273041
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "part-2/06-bai-thi-online-part-2-3",
+          "slug": "06-bai-thi-online-part-2-3",
+          "title": "Bài thi online Part 2 ()3",
+          "order": "06",
+          "groups": [
+            {
+              "title": null,
+              "items": [
+                {
+                  "kind": "question",
+                  "label": "DE 1",
+                  "src": "part-2/06-bai-thi-online-part-2-3/de-1.pdf",
+                  "bytes": 276014
+                },
+                {
+                  "kind": "answer",
+                  "label": "DA 1",
+                  "src": "part-2/06-bai-thi-online-part-2-3/da-1.pdf",
+                  "bytes": 867930
+                },
+                {
+                  "kind": "audio",
+                  "label": "01",
+                  "src": "part-2/06-bai-thi-online-part-2-3/01.m4a",
+                  "bytes": 97769
+                },
+                {
+                  "kind": "audio",
+                  "label": "02",
+                  "src": "part-2/06-bai-thi-online-part-2-3/02.m4a",
+                  "bytes": 91463
+                },
+                {
+                  "kind": "audio",
+                  "label": "03",
+                  "src": "part-2/06-bai-thi-online-part-2-3/03.m4a",
+                  "bytes": 96335
+                },
+                {
+                  "kind": "audio",
+                  "label": "04",
+                  "src": "part-2/06-bai-thi-online-part-2-3/04.m4a",
+                  "bytes": 111097
+                },
+                {
+                  "kind": "audio",
+                  "label": "05",
+                  "src": "part-2/06-bai-thi-online-part-2-3/05.m4a",
+                  "bytes": 105938
+                },
+                {
+                  "kind": "audio",
+                  "label": "06",
+                  "src": "part-2/06-bai-thi-online-part-2-3/06.m4a",
+                  "bytes": 99775
+                },
+                {
+                  "kind": "audio",
+                  "label": "07",
+                  "src": "part-2/06-bai-thi-online-part-2-3/07.m4a",
+                  "bytes": 108804
+                },
+                {
+                  "kind": "audio",
+                  "label": "08",
+                  "src": "part-2/06-bai-thi-online-part-2-3/08.m4a",
+                  "bytes": 89886
+                },
+                {
+                  "kind": "audio",
+                  "label": "09",
+                  "src": "part-2/06-bai-thi-online-part-2-3/09.m4a",
+                  "bytes": 111957
+                },
+                {
+                  "kind": "audio",
+                  "label": "10",
+                  "src": "part-2/06-bai-thi-online-part-2-3/10.m4a",
+                  "bytes": 106941
+                },
+                {
+                  "kind": "audio",
+                  "label": "11",
+                  "src": "part-2/06-bai-thi-online-part-2-3/11.m4a",
+                  "bytes": 104361
+                },
+                {
+                  "kind": "audio",
+                  "label": "12",
+                  "src": "part-2/06-bai-thi-online-part-2-3/12.m4a",
+                  "bytes": 112674
+                },
+                {
+                  "kind": "audio",
+                  "label": "13",
+                  "src": "part-2/06-bai-thi-online-part-2-3/13.m4a",
+                  "bytes": 105365
+                },
+                {
+                  "kind": "audio",
+                  "label": "14",
+                  "src": "part-2/06-bai-thi-online-part-2-3/14.m4a",
+                  "bytes": 106654
+                },
+                {
+                  "kind": "audio",
+                  "label": "15",
+                  "src": "part-2/06-bai-thi-online-part-2-3/15.m4a",
+                  "bytes": 122276
+                },
+                {
+                  "kind": "audio",
+                  "label": "16",
+                  "src": "part-2/06-bai-thi-online-part-2-3/16.m4a",
+                  "bytes": 113104
+                },
+                {
+                  "kind": "audio",
+                  "label": "17",
+                  "src": "part-2/06-bai-thi-online-part-2-3/17.m4a",
+                  "bytes": 106654
+                },
+                {
+                  "kind": "audio",
+                  "label": "18",
+                  "src": "part-2/06-bai-thi-online-part-2-3/18.m4a",
+                  "bytes": 111384
+                },
+                {
+                  "kind": "audio",
+                  "label": "19",
+                  "src": "part-2/06-bai-thi-online-part-2-3/19.m4a",
+                  "bytes": 107228
+                },
+                {
+                  "kind": "audio",
+                  "label": "20",
+                  "src": "part-2/06-bai-thi-online-part-2-3/20.m4a",
+                  "bytes": 100922
+                },
+                {
+                  "kind": "audio",
+                  "label": "21",
+                  "src": "part-2/06-bai-thi-online-part-2-3/21.m4a",
+                  "bytes": 112531
+                },
+                {
+                  "kind": "audio",
+                  "label": "22",
+                  "src": "part-2/06-bai-thi-online-part-2-3/22.m4a",
+                  "bytes": 109091
+                },
+                {
+                  "kind": "audio",
+                  "label": "23",
+                  "src": "part-2/06-bai-thi-online-part-2-3/23.m4a",
+                  "bytes": 111241
+                },
+                {
+                  "kind": "audio",
+                  "label": "24",
+                  "src": "part-2/06-bai-thi-online-part-2-3/24.m4a",
+                  "bytes": 117260
+                },
+                {
+                  "kind": "audio",
+                  "label": "25",
+                  "src": "part-2/06-bai-thi-online-part-2-3/25.m4a",
+                  "bytes": 112531
+                },
+                {
+                  "kind": "audio",
+                  "label": "26",
+                  "src": "part-2/06-bai-thi-online-part-2-3/26.m4a",
+                  "bytes": 115827
+                },
+                {
+                  "kind": "audio",
+                  "label": "27",
+                  "src": "part-2/06-bai-thi-online-part-2-3/27.m4a",
+                  "bytes": 97195
+                },
+                {
+                  "kind": "audio",
+                  "label": "28",
+                  "src": "part-2/06-bai-thi-online-part-2-3/28.m4a",
+                  "bytes": 113820
+                },
+                {
+                  "kind": "audio",
+                  "label": "29",
+                  "src": "part-2/06-bai-thi-online-part-2-3/29.m4a",
+                  "bytes": 102355
+                },
+                {
+                  "kind": "audio",
+                  "label": "30",
+                  "src": "part-2/06-bai-thi-online-part-2-3/30.m4a",
+                  "bytes": 115110
+                }
+              ],
+              "exam": {
+                "questions": 30,
+                "options": 3,
+                "seconds": 889,
+                "key": "BABCCACBAACABABCCABABABCCCABAB"
+              }
+            }
+          ]
+        },
+        {
+          "id": "part-2/07-bai-thi-online-part-2-4",
+          "slug": "07-bai-thi-online-part-2-4",
+          "title": "Bài thi online Part 2 (4)",
+          "order": "07",
+          "groups": [
+            {
+              "title": null,
+              "items": [
+                {
+                  "kind": "question",
+                  "label": "DE 2-1",
+                  "src": "part-2/07-bai-thi-online-part-2-4/de-2-1.pdf",
+                  "bytes": 276388
+                },
+                {
+                  "kind": "answer",
+                  "label": "DA 2-1",
+                  "src": "part-2/07-bai-thi-online-part-2-4/da-2-1.pdf",
+                  "bytes": 868045
+                },
+                {
+                  "kind": "audio",
+                  "label": "01-2",
+                  "src": "part-2/07-bai-thi-online-part-2-4/01-2.m4a",
+                  "bytes": 90889
+                },
+                {
+                  "kind": "audio",
+                  "label": "02-2",
+                  "src": "part-2/07-bai-thi-online-part-2-4/02-2.m4a",
+                  "bytes": 94902
+                },
+                {
+                  "kind": "audio",
+                  "label": "04-2",
+                  "src": "part-2/07-bai-thi-online-part-2-4/04-2.m4a",
+                  "bytes": 99488
+                },
+                {
+                  "kind": "audio",
+                  "label": "05-2",
+                  "src": "part-2/07-bai-thi-online-part-2-4/05-2.m4a",
+                  "bytes": 106081
+                },
+                {
+                  "kind": "audio",
+                  "label": "06-2",
+                  "src": "part-2/07-bai-thi-online-part-2-4/06-2.m4a",
+                  "bytes": 111671
+                },
+                {
+                  "kind": "audio",
+                  "label": "07-2",
+                  "src": "part-2/07-bai-thi-online-part-2-4/07-2.m4a",
+                  "bytes": 90459
+                },
+                {
+                  "kind": "audio",
+                  "label": "08-2",
+                  "src": "part-2/07-bai-thi-online-part-2-4/08-2.m4a",
+                  "bytes": 99775
+                },
+                {
+                  "kind": "audio",
+                  "label": "09-2",
+                  "src": "part-2/07-bai-thi-online-part-2-4/09-2.m4a",
+                  "bytes": 95332
+                },
+                {
+                  "kind": "audio",
+                  "label": "10-2",
+                  "src": "part-2/07-bai-thi-online-part-2-4/10-2.m4a",
+                  "bytes": 102212
+                },
+                {
+                  "kind": "audio",
+                  "label": "12-2",
+                  "src": "part-2/07-bai-thi-online-part-2-4/12-2.m4a",
+                  "bytes": 92179
+                },
+                {
+                  "kind": "audio",
+                  "label": "13-2",
+                  "src": "part-2/07-bai-thi-online-part-2-4/13-2.m4a",
+                  "bytes": 92179
+                },
+                {
+                  "kind": "audio",
+                  "label": "14-2",
+                  "src": "part-2/07-bai-thi-online-part-2-4/14-2.m4a",
+                  "bytes": 102785
+                },
+                {
+                  "kind": "audio",
+                  "label": "15-2",
+                  "src": "part-2/07-bai-thi-online-part-2-4/15-2.m4a",
+                  "bytes": 95189
+                },
+                {
+                  "kind": "audio",
+                  "label": "16-2",
+                  "src": "part-2/07-bai-thi-online-part-2-4/16-2.m4a",
+                  "bytes": 110237
+                },
+                {
+                  "kind": "audio",
+                  "label": "17-2",
+                  "src": "part-2/07-bai-thi-online-part-2-4/17-2.m4a",
+                  "bytes": 108518
+                },
+                {
+                  "kind": "audio",
+                  "label": "18-2",
+                  "src": "part-2/07-bai-thi-online-part-2-4/18-2.m4a",
+                  "bytes": 102785
+                },
+                {
+                  "kind": "audio",
+                  "label": "19-2",
+                  "src": "part-2/07-bai-thi-online-part-2-4/19-2.m4a",
+                  "bytes": 98485
+                },
+                {
+                  "kind": "audio",
+                  "label": "20-2",
+                  "src": "part-2/07-bai-thi-online-part-2-4/20-2.m4a",
+                  "bytes": 96909
+                },
+                {
+                  "kind": "audio",
+                  "label": "21-2",
+                  "src": "part-2/07-bai-thi-online-part-2-4/21-2.m4a",
+                  "bytes": 110524
+                },
+                {
+                  "kind": "audio",
+                  "label": "22-2",
+                  "src": "part-2/07-bai-thi-online-part-2-4/22-2.m4a",
+                  "bytes": 100778
+                },
+                {
+                  "kind": "audio",
+                  "label": "23-2",
+                  "src": "part-2/07-bai-thi-online-part-2-4/23-2.m4a",
+                  "bytes": 111241
+                },
+                {
+                  "kind": "audio",
+                  "label": "24-2",
+                  "src": "part-2/07-bai-thi-online-part-2-4/24-2.m4a",
+                  "bytes": 111384
+                },
+                {
+                  "kind": "audio",
+                  "label": "25-2",
+                  "src": "part-2/07-bai-thi-online-part-2-4/25-2.m4a",
+                  "bytes": 109521
+                },
+                {
+                  "kind": "audio",
+                  "label": "26-2",
+                  "src": "part-2/07-bai-thi-online-part-2-4/26-2.m4a",
+                  "bytes": 104361
+                },
+                {
+                  "kind": "audio",
+                  "label": "27-2",
+                  "src": "part-2/07-bai-thi-online-part-2-4/27-2.m4a",
+                  "bytes": 123136
+                },
+                {
+                  "kind": "audio",
+                  "label": "28-2",
+                  "src": "part-2/07-bai-thi-online-part-2-4/28-2.m4a",
+                  "bytes": 124283
+                },
+                {
+                  "kind": "audio",
+                  "label": "29-2",
+                  "src": "part-2/07-bai-thi-online-part-2-4/29-2.m4a",
+                  "bytes": 112531
+                },
+                {
+                  "kind": "audio",
+                  "label": "30-2",
+                  "src": "part-2/07-bai-thi-online-part-2-4/30-2.m4a",
+                  "bytes": 111814
+                }
+              ],
+              "exam": {
+                "questions": 30,
+                "options": 3,
+                "seconds": 860,
+                "key": "BBACABCABCBCABBAAACCABABBCABAC"
+              }
+            }
+          ]
+        },
+        {
+          "id": "part-2/08-part-2-other-types-question",
+          "slug": "08-part-2-other-types-question",
+          "title": "(Part 2) Other types question",
+          "order": "08",
+          "groups": [
+            {
+              "title": null,
+              "items": [
+                {
+                  "kind": "theory",
+                  "label": "Unit 4(Part 2) Other types question",
+                  "src": "part-2/08-part-2-other-types-question/unit-4-part-2-other-types-question.pdf",
+                  "bytes": 243967
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "part-2/09-bai-thi-online-part-2-5",
+          "slug": "09-bai-thi-online-part-2-5",
+          "title": "Bài thi online Part 2 (5)",
+          "order": "09",
+          "groups": [
+            {
+              "title": null,
+              "items": [
+                {
+                  "kind": "question",
+                  "label": "DE-1",
+                  "src": "part-2/09-bai-thi-online-part-2-5/de-1.pdf",
+                  "bytes": 274124
+                },
+                {
+                  "kind": "answer",
+                  "label": "DA-1",
+                  "src": "part-2/09-bai-thi-online-part-2-5/da-1.pdf",
+                  "bytes": 859596
+                }
+              ],
+              "exam": {
+                "questions": 29,
+                "options": 3,
+                "seconds": 875,
+                "key": "BCABAABACCACCACACAABCAABAAAAA"
+              }
+            }
+          ]
+        },
+        {
+          "id": "part-2/10-part-2-practive-1",
+          "slug": "10-part-2-practive-1",
+          "title": "(Part 2) Practive (1)",
+          "order": "10",
+          "groups": [
+            {
+              "title": null,
+              "items": [
+                {
+                  "kind": "question",
+                  "label": "(Part 2). Practice (1)",
+                  "src": "part-2/10-part-2-practive-1/part-2-practice-1.pdf",
+                  "bytes": 233024
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "part-2/11-bai-thi-online-part-2-6",
+          "slug": "11-bai-thi-online-part-2-6",
+          "title": "Bài thi online Part 2 (6)",
+          "order": "11",
+          "groups": [
+            {
+              "title": null,
+              "items": [
+                {
+                  "kind": "question",
+                  "label": "DE",
+                  "src": "part-2/11-bai-thi-online-part-2-6/de.pdf",
+                  "bytes": 113508
+                },
+                {
+                  "kind": "answer",
+                  "label": "DA",
+                  "src": "part-2/11-bai-thi-online-part-2-6/da.pdf",
+                  "bytes": 435051
+                },
+                {
+                  "kind": "audio",
+                  "label": "01-1",
+                  "src": "part-2/11-bai-thi-online-part-2-6/01-1.m4a",
+                  "bytes": 4114483
+                }
+              ],
+              "exam": {
+                "questions": 30,
+                "options": 3,
+                "seconds": 890,
+                "key": "AACBBBBCACACBBCCACBCBABCABACCC"
+              }
+            }
+          ]
+        },
+        {
+          "id": "part-2/12-part-2-practive-2",
+          "slug": "12-part-2-practive-2",
+          "title": "(Part 2) Practive (2)",
+          "order": "12",
+          "groups": [
+            {
+              "title": null,
+              "items": [
+                {
+                  "kind": "question",
+                  "label": "(Part 2) Practice (2)",
+                  "src": "part-2/12-part-2-practive-2/part-2-practice-2.pdf",
+                  "bytes": 226869
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "part-2/13-bai-thi-online-part-2-7",
+          "slug": "13-bai-thi-online-part-2-7",
+          "title": "Bài thi online Part 2 (7)",
+          "order": "13",
+          "groups": [
+            {
+              "title": null,
+              "items": [
+                {
+                  "kind": "question",
+                  "label": "DE 1-1",
+                  "src": "part-2/13-bai-thi-online-part-2-7/de-1-1.pdf",
+                  "bytes": 103034
+                },
+                {
+                  "kind": "answer",
+                  "label": "DA 1-1",
+                  "src": "part-2/13-bai-thi-online-part-2-7/da-1-1.pdf",
+                  "bytes": 437111
+                },
+                {
+                  "kind": "audio",
+                  "label": "01",
+                  "src": "part-2/13-bai-thi-online-part-2-7/01.m4a",
+                  "bytes": 4246206
+                }
+              ],
+              "exam": {
+                "questions": 30,
+                "options": 3,
+                "seconds": 885,
+                "key": "ABCABAACBCBAABABAACBCACAABCABC"
+              }
+            }
+          ]
+        },
+        {
+          "id": "part-2/14-bai-thi-online-part-2-8",
+          "slug": "14-bai-thi-online-part-2-8",
+          "title": "Bài thi online Part 2 (8)",
+          "order": "14",
+          "groups": [
+            {
+              "title": null,
+              "items": [
+                {
+                  "kind": "question",
+                  "label": "DE 2-1",
+                  "src": "part-2/14-bai-thi-online-part-2-8/de-2-1.pdf",
+                  "bytes": 103053
+                },
+                {
+                  "kind": "answer",
+                  "label": "DA 2-1",
+                  "src": "part-2/14-bai-thi-online-part-2-8/da-2-1.pdf",
+                  "bytes": 435313
+                },
+                {
+                  "kind": "audio",
+                  "label": "02",
+                  "src": "part-2/14-bai-thi-online-part-2-8/02.m4a",
+                  "bytes": 3979918
+                }
+              ],
+              "exam": {
+                "questions": 30,
+                "options": 3,
+                "seconds": 889,
+                "key": "CACACBABABCACCACBABAABAABACACA"
+              }
+            }
+          ]
+        },
+        {
+          "id": "part-2/15-part-2-practive-3",
+          "slug": "15-part-2-practive-3",
+          "title": "(Part 2) Practive (3)",
+          "order": "15",
+          "groups": [
+            {
+              "title": null,
+              "items": [
+                {
+                  "kind": "question",
+                  "label": "(Part 2) Practice (3)",
+                  "src": "part-2/15-part-2-practive-3/part-2-practice-3.pdf",
+                  "bytes": 229445
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "part-2/16-bai-thi-online-part-2-9",
+          "slug": "16-bai-thi-online-part-2-9",
+          "title": "Bài thi online Part 2 (9)",
+          "order": "16",
+          "groups": [
+            {
+              "title": null,
+              "items": [
+                {
+                  "kind": "question",
+                  "label": "DE 1",
+                  "src": "part-2/16-bai-thi-online-part-2-9/de-1.pdf",
+                  "bytes": 113284
+                },
+                {
+                  "kind": "answer",
+                  "label": "DA 1",
+                  "src": "part-2/16-bai-thi-online-part-2-9/da-1.pdf",
+                  "bytes": 436534
+                },
+                {
+                  "kind": "audio",
+                  "label": "File nghe 1",
+                  "src": "part-2/16-bai-thi-online-part-2-9/file-nghe-1.m4a",
+                  "bytes": 4336908
+                }
+              ],
+              "exam": {
+                "questions": 30,
+                "options": 3,
+                "seconds": 897,
+                "key": "ACBAABCCACAACBABACABAAABCACCBB"
+              }
+            }
+          ]
+        },
+        {
+          "id": "part-2/17-bai-thi-online-part-2-10",
+          "slug": "17-bai-thi-online-part-2-10",
+          "title": "Bài thi online Part 2 (10)",
+          "order": "17",
+          "groups": [
+            {
+              "title": null,
+              "items": [
+                {
+                  "kind": "question",
+                  "label": "DE 2",
+                  "src": "part-2/17-bai-thi-online-part-2-10/de-2.pdf",
+                  "bytes": 114677
+                },
+                {
+                  "kind": "answer",
+                  "label": "DA 2",
+                  "src": "part-2/17-bai-thi-online-part-2-10/da-2.pdf",
+                  "bytes": 419547
+                },
+                {
+                  "kind": "audio",
+                  "label": "File nghe 2",
+                  "src": "part-2/17-bai-thi-online-part-2-10/file-nghe-2.m4a",
+                  "bytes": 3947934
+                }
+              ],
+              "exam": {
+                "questions": 30,
+                "options": 3,
+                "seconds": 892,
+                "key": "ACACBABCCABACCAAAAACBBBABABCAC"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "part-3",
+      "title": "PART 3",
+      "order": null,
+      "lessons": [
+        {
+          "id": "part-3/01-part-3-short-conversation-at-the-office",
+          "slug": "01-part-3-short-conversation-at-the-office",
+          "title": "(Part 3) Short Conversation - At the office",
+          "order": "01",
+          "groups": [
+            {
+              "title": null,
+              "items": [
+                {
+                  "kind": "theory",
+                  "label": "Unit 1 Part 3 Office",
+                  "src": "part-3/01-part-3-short-conversation-at-the-office/unit-1-part-3-office.pdf",
+                  "bytes": 297218
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "part-3/01-2-part-3-shopping-entertainment",
+          "slug": "01-2-part-3-shopping-entertainment",
+          "title": "(Part 3) Shopping _ Entertainment",
+          "order": "01.2",
+          "groups": [
+            {
+              "title": null,
+              "items": [
+                {
+                  "kind": "theory",
+                  "label": "Unit 2 Part 3 Shopping-Entertainment",
+                  "src": "part-3/01-2-part-3-shopping-entertainment/unit-2-part-3-shopping-entertainment.pdf",
+                  "bytes": 350758
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "part-3/02-part-3-cau-hoi-what-where",
+          "slug": "02-part-3-cau-hoi-what-where",
+          "title": "(Part 3) Câu hỏi What _ Where",
+          "order": "02",
+          "groups": [
+            {
+              "title": null,
+              "items": [
+                {
+                  "kind": "theory",
+                  "label": "(Part 3) Câu hỏi What_ Where",
+                  "src": "part-3/02-part-3-cau-hoi-what-where/part-3-cau-hoi-what-where.pdf",
+                  "bytes": 456069
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "part-3/03-thi-online-part-3-1",
+          "slug": "03-thi-online-part-3-1",
+          "title": "Thi online Part 3 (1)",
+          "order": "03",
+          "groups": [
+            {
+              "title": null,
+              "items": [
+                {
+                  "kind": "question",
+                  "label": "DE",
+                  "src": "part-3/03-thi-online-part-3-1/de.pdf",
+                  "bytes": 322472
+                },
+                {
+                  "kind": "answer",
+                  "label": "DA",
+                  "src": "part-3/03-thi-online-part-3-1/da.pdf",
+                  "bytes": 668322
+                },
+                {
+                  "kind": "audio",
+                  "label": "Test 01_mp3",
+                  "src": "part-3/03-thi-online-part-3-1/test-01-mp3.m4a",
+                  "bytes": 371796
+                }
+              ],
+              "exam": {
+                "questions": 30,
+                "options": 4,
+                "seconds": 1193,
+                "key": "BAADBACADADCBCADDBABCDBAABACCB"
+              }
+            }
+          ]
+        },
+        {
+          "id": "part-3/04-part-3-cau-hoi-why-who-how",
+          "slug": "04-part-3-cau-hoi-why-who-how",
+          "title": "(Part 3) Câu hỏi Why Who How",
+          "order": "04",
+          "groups": [
+            {
+              "title": null,
+              "items": [
+                {
+                  "kind": "theory",
+                  "label": "04.(Part 3) Câu hỏi Why-Who-How",
+                  "src": "part-3/04-part-3-cau-hoi-why-who-how/04-part-3-cau-hoi-why-who-how.pdf",
+                  "bytes": 446634
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "part-3/05-thi-online-part-3-2",
+          "slug": "05-thi-online-part-3-2",
+          "title": "Thi online Part 3 (2)",
+          "order": "05",
+          "groups": [
+            {
+              "title": null,
+              "items": [
+                {
+                  "kind": "question",
+                  "label": "DE",
+                  "src": "part-3/05-thi-online-part-3-2/de.pdf",
+                  "bytes": 433125
+                },
+                {
+                  "kind": "answer",
+                  "label": "DA",
+                  "src": "part-3/05-thi-online-part-3-2/da.pdf",
+                  "bytes": 1116157
+                }
+              ],
+              "exam": {
+                "questions": 30,
+                "options": 4,
+                "seconds": 1195,
+                "key": "BBACAACABDACDBAADBCABACCABDAAB"
+              }
+            }
+          ]
+        },
+        {
+          "id": "part-3/06-part-3-cac-chu-de-quen-thuoc",
+          "slug": "06-part-3-cac-chu-de-quen-thuoc",
+          "title": "(Part 3) Các chủ đề quen thuộc",
+          "order": "06",
+          "groups": [
+            {
+              "title": null,
+              "items": [
+                {
+                  "kind": "theory",
+                  "label": "(Part 3) Các chủ đề quen thuộc",
+                  "src": "part-3/06-part-3-cac-chu-de-quen-thuoc/part-3-cac-chu-de-quen-thuoc.pdf",
+                  "bytes": 452289
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "part-3/07-thi-online-part-3-3",
+          "slug": "07-thi-online-part-3-3",
+          "title": "Thi online Part 3 (3)",
+          "order": "07",
+          "groups": [
+            {
+              "title": null,
+              "items": [
+                {
+                  "kind": "question",
+                  "label": "DE",
+                  "src": "part-3/07-thi-online-part-3-3/de.pdf",
+                  "bytes": 433646
+                },
+                {
+                  "kind": "answer",
+                  "label": "DA(1)",
+                  "src": "part-3/07-thi-online-part-3-3/da-1.pdf",
+                  "bytes": 1119508
+                }
+              ],
+              "exam": {
+                "questions": 30,
+                "options": 4,
+                "seconds": 1196,
+                "key": "DAABACDBBABCCAADBCAACADCACDABB"
+              }
+            }
+          ]
+        },
+        {
+          "id": "part-3/16-thi-online-part-3-9",
+          "slug": "16-thi-online-part-3-9",
+          "title": "Thi online Part 3 (9)",
+          "order": "16",
+          "groups": [
+            {
+              "title": null,
+              "items": [
+                {
+                  "kind": "question",
+                  "label": "DE 1",
+                  "src": "part-3/16-thi-online-part-3-9/de-1.pdf",
+                  "bytes": 432602
+                },
+                {
+                  "kind": "answer",
+                  "label": "DA 1",
+                  "src": "part-3/16-thi-online-part-3-9/da-1.pdf",
+                  "bytes": 1113748
+                }
+              ],
+              "exam": {
+                "questions": 30,
+                "options": 4,
+                "seconds": 1198,
+                "key": "ABDCABABBBDCDBDCABACDCBABCDCCA"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "part-4",
+      "title": "PART 4",
+      "order": null,
+      "lessons": [
+        {
+          "id": "part-4/0-1-1-unit-1-part-4-office",
+          "slug": "0-1-1-unit-1-part-4-office",
+          "title": "Unit 1 – Part 4 Office",
+          "order": "0.1.1",
+          "groups": [
+            {
+              "title": null,
+              "items": [
+                {
+                  "kind": "theory",
+                  "label": "Unit 1 - Part 4. Office",
+                  "src": "part-4/0-1-1-unit-1-part-4-office/unit-1-part-4-office.pdf",
+                  "bytes": 306255
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "part-4/0-1-2-unit-2-part-4-office",
+          "slug": "0-1-2-unit-2-part-4-office",
+          "title": "Unit 2 – Part 4 Office",
+          "order": "0.1.2",
+          "groups": [
+            {
+              "title": null,
+              "items": [
+                {
+                  "kind": "theory",
+                  "label": "Unit 2 - Part 4. Shopping _ Entertainment",
+                  "src": "part-4/0-1-2-unit-2-part-4-office/unit-2-part-4-shopping-entertainment.pdf",
+                  "bytes": 357890
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "part-4/0-1-3-unit-3-part-4-telephone-messages",
+          "slug": "0-1-3-unit-3-part-4-telephone-messages",
+          "title": "Unit 3 – Part 4  Telephone Messages",
+          "order": "0.1.3",
+          "groups": [
+            {
+              "title": null,
+              "items": [
+                {
+                  "kind": "theory",
+                  "label": "Unit 3 - Part 4. Telephone Messages",
+                  "src": "part-4/0-1-3-unit-3-part-4-telephone-messages/unit-3-part-4-telephone-messages.pdf",
+                  "bytes": 275029
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "part-4/0-1-4-part-4-quang-cao-thong-bao-1",
+          "slug": "0-1-4-part-4-quang-cao-thong-bao-1",
+          "title": "(Part 4) Quảng cáo , thông báo (1)",
+          "order": "0.1.4",
+          "groups": [
+            {
+              "title": null,
+              "items": [
+                {
+                  "kind": "theory",
+                  "label": "917927066-1575341871051-p4-quancaothongbao-1",
+                  "src": "part-4/0-1-4-part-4-quang-cao-thong-bao-1/917927066-1575341871051-p4-quancaothongbao-1.pdf",
+                  "bytes": 468327
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "part-4/02-thi-online-part-4-1",
+          "slug": "02-thi-online-part-4-1",
+          "title": "Thi online Part 4 (1)",
+          "order": "02",
+          "groups": [
+            {
+              "title": null,
+              "items": [
+                {
+                  "kind": "question",
+                  "label": "DE 1",
+                  "src": "part-4/02-thi-online-part-4-1/de-1.pdf",
+                  "bytes": 433924
+                },
+                {
+                  "kind": "answer",
+                  "label": "DA 1",
+                  "src": "part-4/02-thi-online-part-4-1/da-1.pdf",
+                  "bytes": 1113593
+                },
+                {
+                  "kind": "audio",
+                  "label": "Câu 1 - 3",
+                  "src": "part-4/02-thi-online-part-4-1/cau-1-3.m4a",
+                  "bytes": 422388
+                },
+                {
+                  "kind": "audio",
+                  "label": "Câu 4 - 6",
+                  "src": "part-4/02-thi-online-part-4-1/cau-4-6.m4a",
+                  "bytes": 487168
+                },
+                {
+                  "kind": "audio",
+                  "label": "Câu 7 - 9",
+                  "src": "part-4/02-thi-online-part-4-1/cau-7-9.m4a",
+                  "bytes": 443026
+                },
+                {
+                  "kind": "audio",
+                  "label": "Câu 10 - 12",
+                  "src": "part-4/02-thi-online-part-4-1/cau-10-12.m4a",
+                  "bytes": 478856
+                },
+                {
+                  "kind": "audio",
+                  "label": "Câu 13 - 15",
+                  "src": "part-4/02-thi-online-part-4-1/cau-13-15.m4a",
+                  "bytes": 427977
+                },
+                {
+                  "kind": "audio",
+                  "label": "Câu 16 - 18",
+                  "src": "part-4/02-thi-online-part-4-1/cau-16-18.m4a",
+                  "bytes": 517695
+                },
+                {
+                  "kind": "audio",
+                  "label": "Câu 19 - 21",
+                  "src": "part-4/02-thi-online-part-4-1/cau-19-21.m4a",
+                  "bytes": 494908
+                },
+                {
+                  "kind": "audio",
+                  "label": "Câu 22 - 24",
+                  "src": "part-4/02-thi-online-part-4-1/cau-22-24.m4a",
+                  "bytes": 482869
+                },
+                {
+                  "kind": "audio",
+                  "label": "Câu 25 - 27",
+                  "src": "part-4/02-thi-online-part-4-1/cau-25-27.m4a",
+                  "bytes": 434140
+                },
+                {
+                  "kind": "audio",
+                  "label": "Câu 28 - 30",
+                  "src": "part-4/02-thi-online-part-4-1/cau-28-30.m4a",
+                  "bytes": 460224
+                }
+              ],
+              "exam": {
+                "questions": 30,
+                "options": 4,
+                "seconds": 1193,
+                "key": "BACCBDDABCCACBCCACCBABBBBCBCDC"
+              }
+            }
+          ]
+        },
+        {
+          "id": "part-4/03-part-4-quang-cao-thong-bao-2",
+          "slug": "03-part-4-quang-cao-thong-bao-2",
+          "title": "(Part 4) Quảng cáo , thông báo (2)",
+          "order": "03",
+          "groups": [
+            {
+              "title": null,
+              "items": [
+                {
+                  "kind": "theory",
+                  "label": "663888969-1575341885183-p4-quangcaothongbao-2",
+                  "src": "part-4/03-part-4-quang-cao-thong-bao-2/663888969-1575341885183-p4-quangcaothongbao-2.pdf",
+                  "bytes": 403642
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "part-4/04-thi-online-part-4-2",
+          "slug": "04-thi-online-part-4-2",
+          "title": "Thi online Part 4 (2)",
+          "order": "04",
+          "groups": [
+            {
+              "title": null,
+              "items": [
+                {
+                  "kind": "question",
+                  "label": "DE 2",
+                  "src": "part-4/04-thi-online-part-4-2/de-2.pdf",
+                  "bytes": 432613
+                },
+                {
+                  "kind": "answer",
+                  "label": "DA 2",
+                  "src": "part-4/04-thi-online-part-4-2/da-2.pdf",
+                  "bytes": 1115926
+                },
+                {
+                  "kind": "audio",
+                  "label": "Câu 1 - 3",
+                  "src": "part-4/04-thi-online-part-4-2/cau-1-3.m4a",
+                  "bytes": 460798
+                },
+                {
+                  "kind": "audio",
+                  "label": "Câu 4 - 6",
+                  "src": "part-4/04-thi-online-part-4-2/cau-4-6.m4a",
+                  "bytes": 438153
+                },
+                {
+                  "kind": "audio",
+                  "label": "Câu 7 - 9",
+                  "src": "part-4/04-thi-online-part-4-2/cau-7-9.m4a",
+                  "bytes": 470113
+                },
+                {
+                  "kind": "audio",
+                  "label": "Câu 10 - 12",
+                  "src": "part-4/04-thi-online-part-4-2/cau-10-12.m4a",
+                  "bytes": 467104
+                },
+                {
+                  "kind": "audio",
+                  "label": "Câu 13 - 15",
+                  "src": "part-4/04-thi-online-part-4-2/cau-13-15.m4a",
+                  "bytes": 430127
+                },
+                {
+                  "kind": "audio",
+                  "label": "Câu 16 - 18",
+                  "src": "part-4/04-thi-online-part-4-2/cau-16-18.m4a",
+                  "bytes": 430270
+                },
+                {
+                  "kind": "audio",
+                  "label": "Câu 19 - 21",
+                  "src": "part-4/04-thi-online-part-4-2/cau-19-21.m4a",
+                  "bytes": 441019
+                },
+                {
+                  "kind": "audio",
+                  "label": "Câu 22 - 24",
+                  "src": "part-4/04-thi-online-part-4-2/cau-22-24.m4a",
+                  "bytes": 527871
+                },
+                {
+                  "kind": "audio",
+                  "label": "Câu 25 - 27",
+                  "src": "part-4/04-thi-online-part-4-2/cau-25-27.m4a",
+                  "bytes": 556392
+                },
+                {
+                  "kind": "audio",
+                  "label": "Câu 28 - 30",
+                  "src": "part-4/04-thi-online-part-4-2/cau-28-30.m4a",
+                  "bytes": 559258
+                }
+              ],
+              "exam": {
+                "questions": 30,
+                "options": 4,
+                "seconds": 1195,
+                "key": "CBDCCAACBBBBCBBBDAAABABCADCBBA"
+              }
+            }
+          ]
+        },
+        {
+          "id": "part-4/05-part-4-tin-tuc-phat-thanh-du-lich",
+          "slug": "05-part-4-tin-tuc-phat-thanh-du-lich",
+          "title": "(Part 4) Tin tức , phát thanh , du lịch",
+          "order": "05",
+          "groups": [
+            {
+              "title": null,
+              "items": [
+                {
+                  "kind": "theory",
+                  "label": "408828901-1575341901766-p4-tintuc-phatthanh-dulich",
+                  "src": "part-4/05-part-4-tin-tuc-phat-thanh-du-lich/408828901-1575341901766-p4-tintuc-phatthanh-dulich.pdf",
+                  "bytes": 418566
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "part-4/06-thi-online-part-4-3",
+          "slug": "06-thi-online-part-4-3",
+          "title": "Thi online Part 4 (3)",
+          "order": "06",
+          "groups": [
+            {
+              "title": null,
+              "items": [
+                {
+                  "kind": "question",
+                  "label": "DE 3",
+                  "src": "part-4/06-thi-online-part-4-3/de-3.pdf",
+                  "bytes": 434179
+                },
+                {
+                  "kind": "answer",
+                  "label": "DA 3",
+                  "src": "part-4/06-thi-online-part-4-3/da-3.pdf",
+                  "bytes": 1122964
+                },
+                {
+                  "kind": "audio",
+                  "label": "Câu 1 - 3",
+                  "src": "part-4/06-thi-online-part-4-3/cau-1-3.m4a",
+                  "bytes": 419808
+                },
+                {
+                  "kind": "audio",
+                  "label": "Câu 4 - 6",
+                  "src": "part-4/06-thi-online-part-4-3/cau-4-6.m4a",
+                  "bytes": 473696
+                },
+                {
+                  "kind": "audio",
+                  "label": "Câu 7 - 9",
+                  "src": "part-4/06-thi-online-part-4-3/cau-7-9.m4a",
+                  "bytes": 461371
+                },
+                {
+                  "kind": "audio",
+                  "label": "Câu 10 - 12",
+                  "src": "part-4/06-thi-online-part-4-3/cau-10-12.m4a",
+                  "bytes": 429410
+                },
+                {
+                  "kind": "audio",
+                  "label": "Câu 13 - 15",
+                  "src": "part-4/06-thi-online-part-4-3/cau-13-15.m4a",
+                  "bytes": 478283
+                },
+                {
+                  "kind": "audio",
+                  "label": "Câu 16 - 18",
+                  "src": "part-4/06-thi-online-part-4-3/cau-16-18.m4a",
+                  "bytes": 478139
+                },
+                {
+                  "kind": "audio",
+                  "label": "Câu 19 - 21",
+                  "src": "part-4/06-thi-online-part-4-3/cau-19-21.m4a",
+                  "bytes": 518985
+                },
+                {
+                  "kind": "audio",
+                  "label": "Câu 22 - 24",
+                  "src": "part-4/06-thi-online-part-4-3/cau-22-24.m4a",
+                  "bytes": 566424
+                },
+                {
+                  "kind": "audio",
+                  "label": "Câu 25 - 27",
+                  "src": "part-4/06-thi-online-part-4-3/cau-25-27.m4a",
+                  "bytes": 472550
+                },
+                {
+                  "kind": "audio",
+                  "label": "Câu 28 - 30",
+                  "src": "part-4/06-thi-online-part-4-3/cau-28-30.m4a",
+                  "bytes": 572587
+                },
+                {
+                  "kind": "audio",
+                  "label": "File nghe Thi Online - Part 4 (3)",
+                  "src": "part-4/06-thi-online-part-4-3/file-nghe-thi-online-part-4-3.m4a",
+                  "bytes": 419808
+                }
+              ],
+              "exam": {
+                "questions": 30,
+                "options": 4,
+                "seconds": 1195,
+                "key": "CACDADCDCCDBCDDCAAABBACBCBDADB"
+              }
+            }
+          ]
+        },
+        {
+          "id": "part-4/07-thi-online-part-4-4",
+          "slug": "07-thi-online-part-4-4",
+          "title": "Thi online Part 4 (4)",
+          "order": "07",
+          "groups": [
+            {
+              "title": null,
+              "items": [
+                {
+                  "kind": "question",
+                  "label": "DE 4",
+                  "src": "part-4/07-thi-online-part-4-4/de-4.pdf",
+                  "bytes": 433579
+                },
+                {
+                  "kind": "answer",
+                  "label": "DA 4",
+                  "src": "part-4/07-thi-online-part-4-4/da-4.pdf",
+                  "bytes": 1112150
+                },
+                {
+                  "kind": "audio",
+                  "label": "Câu 1- 3",
+                  "src": "part-4/07-thi-online-part-4-4/cau-1-3.m4a",
+                  "bytes": 480862
+                },
+                {
+                  "kind": "audio",
+                  "label": "Câu 4 - 6",
+                  "src": "part-4/07-thi-online-part-4-4/cau-4-6.m4a",
+                  "bytes": 493331
+                },
+                {
+                  "kind": "audio",
+                  "label": "Câu 7 - 9",
+                  "src": "part-4/07-thi-online-part-4-4/cau-7-9.m4a",
+                  "bytes": 428551
+                },
+                {
+                  "kind": "audio",
+                  "label": "Câu 10 - 12",
+                  "src": "part-4/07-thi-online-part-4-4/cau-10-12.m4a",
+                  "bytes": 530594
+                },
+                {
+                  "kind": "audio",
+                  "label": "Câu 13 - 15",
+                  "src": "part-4/07-thi-online-part-4-4/cau-13-15.m4a",
+                  "bytes": 521422
+                },
+                {
+                  "kind": "audio",
+                  "label": "Câu 16 - 18",
+                  "src": "part-4/07-thi-online-part-4-4/cau-16-18.m4a",
+                  "bytes": 506087
+                },
+                {
+                  "kind": "audio",
+                  "label": "Câu 19 - 21",
+                  "src": "part-4/07-thi-online-part-4-4/cau-19-21.m4a",
+                  "bytes": 486595
+                },
+                {
+                  "kind": "audio",
+                  "label": "Câu 22 - 24",
+                  "src": "part-4/07-thi-online-part-4-4/cau-22-24.m4a",
+                  "bytes": 535180
+                },
+                {
+                  "kind": "audio",
+                  "label": "Câu 25 - 27",
+                  "src": "part-4/07-thi-online-part-4-4/cau-25-27.m4a",
+                  "bytes": 514399
+                },
+                {
+                  "kind": "audio",
+                  "label": "Câu 28 - 30",
+                  "src": "part-4/07-thi-online-part-4-4/cau-28-30.m4a",
+                  "bytes": 515116
+                },
+                {
+                  "kind": "audio",
+                  "label": "File nghe Thi Online - Part 4 (4)",
+                  "src": "part-4/07-thi-online-part-4-4/file-nghe-thi-online-part-4-4.m4a",
+                  "bytes": 480862
+                }
+              ],
+              "exam": {
+                "questions": 30,
+                "options": 4,
+                "seconds": 1195,
+                "key": "ADDCABBAABDDCACACBDAAACDCDBADB"
+              }
+            }
+          ]
+        },
+        {
+          "id": "part-4/08-part-4-chu-de-tin-nhan-ghi-am-gioi-thieu",
+          "slug": "08-part-4-chu-de-tin-nhan-ghi-am-gioi-thieu",
+          "title": "(Part 4) Chủ đề tin nhắn , ghi âm ,giới thiệu",
+          "order": "08",
+          "groups": [
+            {
+              "title": null,
+              "items": [
+                {
+                  "kind": "theory",
+                  "label": "(Part 4) Chủ đề tin nhắn, ghi âm, giới thiệu",
+                  "src": "part-4/08-part-4-chu-de-tin-nhan-ghi-am-gioi-thieu/part-4-chu-de-tin-nhan-ghi-am-gioi-thieu.pdf",
+                  "bytes": 454287
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "part-4/09-thi-online-part-4-5",
+          "slug": "09-thi-online-part-4-5",
+          "title": "Thi online Part 4 (5)",
+          "order": "09",
+          "groups": [
+            {
+              "title": null,
+              "items": [
+                {
+                  "kind": "question",
+                  "label": "DE 5",
+                  "src": "part-4/09-thi-online-part-4-5/de-5.pdf",
+                  "bytes": 434188
+                },
+                {
+                  "kind": "answer",
+                  "label": "DA 5",
+                  "src": "part-4/09-thi-online-part-4-5/da-5.pdf",
+                  "bytes": 1156510
+                },
+                {
+                  "kind": "audio",
+                  "label": "Câu 1 - 3",
+                  "src": "part-4/09-thi-online-part-4-5/cau-1-3.m4a",
+                  "bytes": 420381
+                },
+                {
+                  "kind": "audio",
+                  "label": "Câu 4 - 6",
+                  "src": "part-4/09-thi-online-part-4-5/cau-4-6.m4a",
+                  "bytes": 483442
+                },
+                {
+                  "kind": "audio",
+                  "label": "Câu 7 - 9",
+                  "src": "part-4/09-thi-online-part-4-5/cau-7-9.m4a",
+                  "bytes": 476419
+                },
+                {
+                  "kind": "audio",
+                  "label": "câu 10 - 12",
+                  "src": "part-4/09-thi-online-part-4-5/cau-10-12.m4a",
+                  "bytes": 458791
+                },
+                {
+                  "kind": "audio",
+                  "label": "Câu 13 - 15",
+                  "src": "part-4/09-thi-online-part-4-5/cau-13-15.m4a",
+                  "bytes": 492041
+                },
+                {
+                  "kind": "audio",
+                  "label": "Câu 16 - 18",
+                  "src": "part-4/09-thi-online-part-4-5/cau-16-18.m4a",
+                  "bytes": 478999
+                },
+                {
+                  "kind": "audio",
+                  "label": "Câu 19 - 21",
+                  "src": "part-4/09-thi-online-part-4-5/cau-19-21.m4a",
+                  "bytes": 544783
+                },
+                {
+                  "kind": "audio",
+                  "label": "Câu 22 - 24",
+                  "src": "part-4/09-thi-online-part-4-5/cau-22-24.m4a",
+                  "bytes": 550372
+                },
+                {
+                  "kind": "audio",
+                  "label": "Câu 25 - 27",
+                  "src": "part-4/09-thi-online-part-4-5/cau-25-27.m4a",
+                  "bytes": 469253
+                },
+                {
+                  "kind": "audio",
+                  "label": "Câu 28 - 30",
+                  "src": "part-4/09-thi-online-part-4-5/cau-28-30.m4a",
+                  "bytes": 560835
+                },
+                {
+                  "kind": "audio",
+                  "label": "File nghe Thi Online - Part 4 (5)",
+                  "src": "part-4/09-thi-online-part-4-5/file-nghe-thi-online-part-4-5.m4a",
+                  "bytes": 420381
+                }
+              ],
+              "exam": {
+                "questions": 30,
+                "options": 4,
+                "seconds": 1196,
+                "key": "ABCABAAAABCABBCCACACACAABBABDA"
+              }
+            }
+          ]
+        },
+        {
+          "id": "part-4/10-thi-online-part-4-6",
+          "slug": "10-thi-online-part-4-6",
+          "title": "Thi online Part 4 (6)",
+          "order": "10",
+          "groups": [
+            {
+              "title": null,
+              "items": [
+                {
+                  "kind": "question",
+                  "label": "DE 6",
+                  "src": "part-4/10-thi-online-part-4-6/de-6.pdf",
+                  "bytes": 435316
+                },
+                {
+                  "kind": "answer",
+                  "label": "DA 6",
+                  "src": "part-4/10-thi-online-part-4-6/da-6.pdf",
+                  "bytes": 1114230
+                },
+                {
+                  "kind": "audio",
+                  "label": "Câu 1 - 3",
+                  "src": "part-4/10-thi-online-part-4-6/cau-1-3.m4a",
+                  "bytes": 438296
+                },
+                {
+                  "kind": "audio",
+                  "label": "Câu 4- 6",
+                  "src": "part-4/10-thi-online-part-4-6/cau-4-6.m4a",
+                  "bytes": 419808
+                },
+                {
+                  "kind": "audio",
+                  "label": "Câu 7 - 9",
+                  "src": "part-4/10-thi-online-part-4-6/cau-7-9.m4a",
+                  "bytes": 483012
+                },
+                {
+                  "kind": "audio",
+                  "label": "Câu 10 - 12",
+                  "src": "part-4/10-thi-online-part-4-6/cau-10-12.m4a",
+                  "bytes": 465814
+                },
+                {
+                  "kind": "audio",
+                  "label": "Câu 13 - 15",
+                  "src": "part-4/10-thi-online-part-4-6/cau-13-15.m4a",
+                  "bytes": 436720
+                },
+                {
+                  "kind": "audio",
+                  "label": "Câu 16 - 18",
+                  "src": "part-4/10-thi-online-part-4-6/cau-16-18.m4a",
+                  "bytes": 459508
+                },
+                {
+                  "kind": "audio",
+                  "label": "Câu 19 - 21",
+                  "src": "part-4/10-thi-online-part-4-6/cau-19-21.m4a",
+                  "bytes": 543493
+                },
+                {
+                  "kind": "audio",
+                  "label": "Câu 22 - 24",
+                  "src": "part-4/10-thi-online-part-4-6/cau-22-24.m4a",
+                  "bytes": 512966
+                },
+                {
+                  "kind": "audio",
+                  "label": "Câu 25 - 27",
+                  "src": "part-4/10-thi-online-part-4-6/cau-25-27.m4a",
+                  "bytes": 469110
+                },
+                {
+                  "kind": "audio",
+                  "label": "Câu 28 - 30",
+                  "src": "part-4/10-thi-online-part-4-6/cau-28-30.m4a",
+                  "bytes": 470400
+                },
+                {
+                  "kind": "audio",
+                  "label": "File nghe Thi Online - Part 4 (6)",
+                  "src": "part-4/10-thi-online-part-4-6/file-nghe-thi-online-part-4-6.m4a",
+                  "bytes": 438296
+                }
+              ],
+              "exam": {
+                "questions": 30,
+                "options": 4,
+                "seconds": 1193,
+                "key": "AABABAACAACBADBABDDBADBACDAACA"
+              }
+            }
+          ]
+        },
+        {
+          "id": "part-4/11-part-4-exercise-1",
+          "slug": "11-part-4-exercise-1",
+          "title": "(Part 4) Exercise (1)",
+          "order": "11",
+          "groups": [
+            {
+              "title": null,
+              "items": [
+                {
+                  "kind": "question",
+                  "label": "EXERCISE 1",
+                  "src": "part-4/11-part-4-exercise-1/exercise-1.pdf",
+                  "bytes": 174335
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "part-4/12-thi-online-part-4-7",
+          "slug": "12-thi-online-part-4-7",
+          "title": "Thi online Part 4 (7)",
+          "order": "12",
+          "groups": [
+            {
+              "title": null,
+              "items": [
+                {
+                  "kind": "question",
+                  "label": "DE 7",
+                  "src": "part-4/12-thi-online-part-4-7/de-7.pdf",
+                  "bytes": 433339
+                },
+                {
+                  "kind": "answer",
+                  "label": "DA 7",
+                  "src": "part-4/12-thi-online-part-4-7/da-7.pdf",
+                  "bytes": 1113616
+                },
+                {
+                  "kind": "audio",
+                  "label": "Câu 1 - 3",
+                  "src": "part-4/12-thi-online-part-4-7/cau-1-3.m4a",
+                  "bytes": 462804
+                },
+                {
+                  "kind": "audio",
+                  "label": "Câu 4 - 6",
+                  "src": "part-4/12-thi-online-part-4-7/cau-4-6.m4a",
+                  "bytes": 405476
+                },
+                {
+                  "kind": "audio",
+                  "label": "Câu 7 - 9",
+                  "src": "part-4/12-thi-online-part-4-7/cau-7-9.m4a",
+                  "bytes": 485448
+                },
+                {
+                  "kind": "audio",
+                  "label": "Câu 10 - 12",
+                  "src": "part-4/12-thi-online-part-4-7/cau-10-12.m4a",
+                  "bytes": 447182
+                },
+                {
+                  "kind": "audio",
+                  "label": "Câu 13 - 15",
+                  "src": "part-4/12-thi-online-part-4-7/cau-13-15.m4a",
+                  "bytes": 487312
+                },
+                {
+                  "kind": "audio",
+                  "label": "Câu 16 - 18",
+                  "src": "part-4/12-thi-online-part-4-7/cau-16-18.m4a",
+                  "bytes": 502360
+                },
+                {
+                  "kind": "audio",
+                  "label": "Câu 19 - 21",
+                  "src": "part-4/12-thi-online-part-4-7/cau-19-21.m4a",
+                  "bytes": 540770
+                },
+                {
+                  "kind": "audio",
+                  "label": "Câu 22 - 24",
+                  "src": "part-4/12-thi-online-part-4-7/cau-22-24.m4a",
+                  "bytes": 515689
+                },
+                {
+                  "kind": "audio",
+                  "label": "Câu 25 - 27",
+                  "src": "part-4/12-thi-online-part-4-7/cau-25-27.m4a",
+                  "bytes": 549656
+                },
+                {
+                  "kind": "audio",
+                  "label": "Câu 28 - 30",
+                  "src": "part-4/12-thi-online-part-4-7/cau-28-30.m4a",
+                  "bytes": 520275
+                },
+                {
+                  "kind": "audio",
+                  "label": "File nghe Thi Online - Part 4 (7)",
+                  "src": "part-4/12-thi-online-part-4-7/file-nghe-thi-online-part-4-7.m4a",
+                  "bytes": 462804
+                }
+              ],
+              "exam": {
+                "questions": 30,
+                "options": 4,
+                "seconds": 1193,
+                "key": "BABAACAABABADBBAACBBADCBACCCBD"
+              }
+            }
+          ]
+        },
+        {
+          "id": "part-4/13-thi-online-part-4-8",
+          "slug": "13-thi-online-part-4-8",
+          "title": "Thi online Part 4 (8)",
+          "order": "13",
+          "groups": [
+            {
+              "title": null,
+              "items": [
+                {
+                  "kind": "question",
+                  "label": "DE 8",
+                  "src": "part-4/13-thi-online-part-4-8/de-8.pdf",
+                  "bytes": 442128
+                },
+                {
+                  "kind": "answer",
+                  "label": "DA 8",
+                  "src": "part-4/13-thi-online-part-4-8/da-8.pdf",
+                  "bytes": 1114830
+                },
+                {
+                  "kind": "audio",
+                  "label": "Câu 1 - 3",
+                  "src": "part-4/13-thi-online-part-4-8/cau-1-3.m4a",
+                  "bytes": 615010
+                },
+                {
+                  "kind": "audio",
+                  "label": "Câu 4 - 6",
+                  "src": "part-4/13-thi-online-part-4-8/cau-4-6.m4a",
+                  "bytes": 501357
+                },
+                {
+                  "kind": "audio",
+                  "label": "Câu 7 - 9",
+                  "src": "part-4/13-thi-online-part-4-8/cau-7-9.m4a",
+                  "bytes": 508810
+                },
+                {
+                  "kind": "audio",
+                  "label": "Câu 10 - 12",
+                  "src": "part-4/13-thi-online-part-4-8/cau-10-12.m4a",
+                  "bytes": 492041
+                },
+                {
+                  "kind": "audio",
+                  "label": "Câu 13 - 15",
+                  "src": "part-4/13-thi-online-part-4-8/cau-13-15.m4a",
+                  "bytes": 439156
+                },
+                {
+                  "kind": "audio",
+                  "label": "Câu 16 - 18",
+                  "src": "part-4/13-thi-online-part-4-8/cau-16-18.m4a",
+                  "bytes": 577316
+                },
+                {
+                  "kind": "audio",
+                  "label": "Câu 19 - 21",
+                  "src": "part-4/13-thi-online-part-4-8/cau-19-21.m4a",
+                  "bytes": 535610
+                },
+                {
+                  "kind": "audio",
+                  "label": "Câu 22 - 24",
+                  "src": "part-4/13-thi-online-part-4-8/cau-22-24.m4a",
+                  "bytes": 536470
+                },
+                {
+                  "kind": "audio",
+                  "label": "Câu 25 - 27",
+                  "src": "part-4/13-thi-online-part-4-8/cau-25-27.m4a",
+                  "bytes": 552235
+                },
+                {
+                  "kind": "audio",
+                  "label": "File nghe Thi Online - Part 4 (8)",
+                  "src": "part-4/13-thi-online-part-4-8/file-nghe-thi-online-part-4-8.m4a",
+                  "bytes": 615010
+                }
+              ],
+              "exam": {
+                "questions": 30,
+                "options": 4,
+                "seconds": 1196,
+                "key": "CCAAADADABDBABBCAADABADCABDABD"
+              }
+            }
+          ]
+        },
+        {
+          "id": "part-4/14-part-4-exercise-2",
+          "slug": "14-part-4-exercise-2",
+          "title": "(Part 4) Exercise (2)",
+          "order": "14",
+          "groups": [
+            {
+              "title": null,
+              "items": [
+                {
+                  "kind": "question",
+                  "label": "(Part 4) Exercise (2)",
+                  "src": "part-4/14-part-4-exercise-2/part-4-exercise-2.pdf",
+                  "bytes": 189707
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "part-4/15-thi-online-part-4-9",
+          "slug": "15-thi-online-part-4-9",
+          "title": "Thi online Part 4 (9)",
+          "order": "15",
+          "groups": [
+            {
+              "title": null,
+              "items": [
+                {
+                  "kind": "question",
+                  "label": "DE 9",
+                  "src": "part-4/15-thi-online-part-4-9/de-9.pdf",
+                  "bytes": 433883
+                },
+                {
+                  "kind": "answer",
+                  "label": "DA 9",
+                  "src": "part-4/15-thi-online-part-4-9/da-9.pdf",
+                  "bytes": 1112560
+                },
+                {
+                  "kind": "audio",
+                  "label": "Câu 4 - 6",
+                  "src": "part-4/15-thi-online-part-4-9/cau-4-6.m4a",
+                  "bytes": 473696
+                },
+                {
+                  "kind": "audio",
+                  "label": "Câu 1 - 3",
+                  "src": "part-4/15-thi-online-part-4-9/cau-1-3.m4a",
+                  "bytes": 623895
+                },
+                {
+                  "kind": "audio",
+                  "label": "Câu 7 - 9",
+                  "src": "part-4/15-thi-online-part-4-9/cau-7-9.m4a",
+                  "bytes": 439730
+                },
+                {
+                  "kind": "audio",
+                  "label": "Câu 10 - 12",
+                  "src": "part-4/15-thi-online-part-4-9/cau-10-12.m4a",
+                  "bytes": 430987
+                },
+                {
+                  "kind": "audio",
+                  "label": "Câu 13 - 15",
+                  "src": "part-4/15-thi-online-part-4-9/cau-13-15.m4a",
+                  "bytes": 457644
+                },
+                {
+                  "kind": "audio",
+                  "label": "Câu 16 - 18",
+                  "src": "part-4/15-thi-online-part-4-9/cau-16-18.m4a",
+                  "bytes": 493044
+                },
+                {
+                  "kind": "audio",
+                  "label": "Câu 19 - 21",
+                  "src": "part-4/15-thi-online-part-4-9/cau-19-21.m4a",
+                  "bytes": 536040
+                },
+                {
+                  "kind": "audio",
+                  "label": "Câu 22 - 24",
+                  "src": "part-4/15-thi-online-part-4-9/cau-22-24.m4a",
+                  "bytes": 489031
+                },
+                {
+                  "kind": "audio",
+                  "label": "Câu 25 - 27",
+                  "src": "part-4/15-thi-online-part-4-9/cau-25-27.m4a",
+                  "bytes": 225180
+                },
+                {
+                  "kind": "audio",
+                  "label": "Câu 28 - 30",
+                  "src": "part-4/15-thi-online-part-4-9/cau-28-30.m4a",
+                  "bytes": 535037
+                },
+                {
+                  "kind": "audio",
+                  "label": "File nghe Thi Online - Part 4 (9)",
+                  "src": "part-4/15-thi-online-part-4-9/file-nghe-thi-online-part-4-9.m4a",
+                  "bytes": 623895
+                }
+              ],
+              "exam": {
+                "questions": 30,
+                "options": 4,
+                "seconds": 1185,
+                "key": "ADCABABCBCBCCCDDCDBADDDDCDCBCD"
+              }
+            }
+          ]
+        },
+        {
+          "id": "part-4/16-thi-online-part-4-10",
+          "slug": "16-thi-online-part-4-10",
+          "title": "Thi online Part 4 (10)",
+          "order": "16",
+          "groups": [
+            {
+              "title": null,
+              "items": [
+                {
+                  "kind": "question",
+                  "label": "DE 10",
+                  "src": "part-4/16-thi-online-part-4-10/de-10.pdf",
+                  "bytes": 433927
+                },
+                {
+                  "kind": "answer",
+                  "label": "DA 10",
+                  "src": "part-4/16-thi-online-part-4-10/da-10.pdf",
+                  "bytes": 1125944
+                },
+                {
+                  "kind": "audio",
+                  "label": "Câu 1 - 3",
+                  "src": "part-4/16-thi-online-part-4-10/cau-1-3.m4a",
+                  "bytes": 449045
+                },
+                {
+                  "kind": "audio",
+                  "label": "Câu 4 - 6",
+                  "src": "part-4/16-thi-online-part-4-10/cau-4-6.m4a",
+                  "bytes": 438296
+                },
+                {
+                  "kind": "audio",
+                  "label": "Câu 7 - 9",
+                  "src": "part-4/16-thi-online-part-4-10/cau-7-9.m4a",
+                  "bytes": 485448
+                },
+                {
+                  "kind": "audio",
+                  "label": "Câu 10 - 12",
+                  "src": "part-4/16-thi-online-part-4-10/cau-10-12.m4a",
+                  "bytes": 576886
+                },
+                {
+                  "kind": "audio",
+                  "label": "Câu 13 - 15",
+                  "src": "part-4/16-thi-online-part-4-10/cau-13-15.m4a",
+                  "bytes": 510099
+                },
+                {
+                  "kind": "audio",
+                  "label": "Câu 16 - 18",
+                  "src": "part-4/16-thi-online-part-4-10/cau-16-18.m4a",
+                  "bytes": 485735
+                },
+                {
+                  "kind": "audio",
+                  "label": "Câu 19 - 21",
+                  "src": "part-4/16-thi-online-part-4-10/cau-19-21.m4a",
+                  "bytes": 452915
+                },
+                {
+                  "kind": "audio",
+                  "label": "Câu 22 - 24",
+                  "src": "part-4/16-thi-online-part-4-10/cau-22-24.m4a",
+                  "bytes": 484875
+                },
+                {
+                  "kind": "audio",
+                  "label": "Câu 25 - 27",
+                  "src": "part-4/16-thi-online-part-4-10/cau-25-27.m4a",
+                  "bytes": 445462
+                },
+                {
+                  "kind": "audio",
+                  "label": "Câu 28 - 30",
+                  "src": "part-4/16-thi-online-part-4-10/cau-28-30.m4a",
+                  "bytes": 481866
+                },
+                {
+                  "kind": "audio",
+                  "label": "File nghe Thi Online - Part 4 (10)",
+                  "src": "part-4/16-thi-online-part-4-10/file-nghe-thi-online-part-4-10.m4a",
+                  "bytes": 449045
+                }
+              ],
+              "exam": {
+                "questions": 30,
+                "options": 4,
+                "seconds": 1194,
+                "key": "CADABAACDBCADBBACDBBCCCADAAACC"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "part-5-6",
+      "title": "PART 5-6",
+      "order": null,
+      "lessons": [
+        {
+          "id": "part-5-6/01-part-5-6-sentences-structure-cac-thanh-phan-co-ban-cua-cau",
+          "slug": "01-part-5-6-sentences-structure-cac-thanh-phan-co-ban-cua-cau",
+          "title": "(Part 5-6) Sentences Structure - Các thành phần cơ bản của câu",
+          "order": "01",
+          "groups": [
+            {
+              "title": null,
+              "items": [
+                {
+                  "kind": "theory",
+                  "label": "Các thành phần cơ bản của câu 1",
+                  "src": "part-5-6/01-part-5-6-sentences-structure-cac-thanh-phan-co-ban-cua-cau/cac-thanh-phan-co-ban-cua-cau-1.pdf",
+                  "bytes": 295568
+                },
+                {
+                  "kind": "theory",
+                  "label": "Các thành phần cơ bản của câu 2",
+                  "src": "part-5-6/01-part-5-6-sentences-structure-cac-thanh-phan-co-ban-cua-cau/cac-thanh-phan-co-ban-cua-cau-2.pdf",
+                  "bytes": 303389
+                },
+                {
+                  "kind": "theory",
+                  "label": "Unit 1 toeic",
+                  "src": "part-5-6/01-part-5-6-sentences-structure-cac-thanh-phan-co-ban-cua-cau/unit-1-toeic.pdf",
+                  "bytes": 835513
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "part-5-6/02-bai-thi-online-1-cac-thanh-phan-co-ban-cua-cau",
+          "slug": "02-bai-thi-online-1-cac-thanh-phan-co-ban-cua-cau",
+          "title": "Bài thi online 1 - Các thành phần cơ bản của câu",
+          "order": "02",
+          "groups": [
+            {
+              "title": null,
+              "items": [
+                {
+                  "kind": "question",
+                  "label": "DE 1",
+                  "src": "part-5-6/02-bai-thi-online-1-cac-thanh-phan-co-ban-cua-cau/de-1.pdf",
+                  "bytes": 275632
+                },
+                {
+                  "kind": "answer",
+                  "label": "DA 1",
+                  "src": "part-5-6/02-bai-thi-online-1-cac-thanh-phan-co-ban-cua-cau/da-1.pdf",
+                  "bytes": 1303734
+                }
+              ],
+              "exam": {
+                "questions": 40,
+                "options": 4,
+                "seconds": 1777,
+                "key": "BCDCDDCDCBBAAACCCABADDCBCCBBABCCADADCACA",
+                "cards": 38
+              }
+            }
+          ]
+        },
+        {
+          "id": "part-5-6/03-bai-thi-online-2-cac-thanh-phan-co-ban-cua-cau",
+          "slug": "03-bai-thi-online-2-cac-thanh-phan-co-ban-cua-cau",
+          "title": "Bài thi online 2 - Các thành phần cơ bản của câu",
+          "order": "03",
+          "groups": [
+            {
+              "title": null,
+              "items": [
+                {
+                  "kind": "question",
+                  "label": "DE 2",
+                  "src": "part-5-6/03-bai-thi-online-2-cac-thanh-phan-co-ban-cua-cau/de-2.pdf",
+                  "bytes": 297127
+                },
+                {
+                  "kind": "answer",
+                  "label": "DA 2",
+                  "src": "part-5-6/03-bai-thi-online-2-cac-thanh-phan-co-ban-cua-cau/da-2.pdf",
+                  "bytes": 1267169
+                }
+              ],
+              "exam": {
+                "questions": 40,
+                "options": 4,
+                "seconds": 1788,
+                "cards": 40
+              }
+            }
+          ]
+        },
+        {
+          "id": "part-5-6/04-part-5-6-sentences-structure-chua-bai-tap-cac-thanh-phan-co-ban-cua-cau",
+          "slug": "04-part-5-6-sentences-structure-chua-bai-tap-cac-thanh-phan-co-ban-cua-cau",
+          "title": "(Part 5-6) Sentences Structure - Chữa bài tập các  thành phần cơ bản của câu",
+          "order": "04",
+          "groups": [
+            {
+              "title": null,
+              "items": [
+                {
+                  "kind": "theory",
+                  "label": "Unit 2 - Toeic",
+                  "src": "part-5-6/04-part-5-6-sentences-structure-chua-bai-tap-cac-thanh-phan-co-ban-cua-cau/unit-2-toeic.pdf",
+                  "bytes": 195093
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "part-5-6/05-part-5-6-pronoun-dai-tu-1",
+          "slug": "05-part-5-6-pronoun-dai-tu-1",
+          "title": "(Part 5-6) Pronoun - Đại từ (1)",
+          "order": "05",
+          "groups": [
+            {
+              "title": null,
+              "items": [
+                {
+                  "kind": "theory",
+                  "label": "Bài 2 Đại từ (1)",
+                  "src": "part-5-6/05-part-5-6-pronoun-dai-tu-1/bai-2-dai-tu-1.pdf",
+                  "bytes": 288907
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "part-5-6/06-thi-online-1-dai-tu-1",
+          "slug": "06-thi-online-1-dai-tu-1",
+          "title": "Thi online 1. Đại từ (1)",
+          "order": "06",
+          "groups": [
+            {
+              "title": null,
+              "items": [
+                {
+                  "kind": "question",
+                  "label": "DE 3",
+                  "src": "part-5-6/06-thi-online-1-dai-tu-1/de-3.pdf",
+                  "bytes": 269671
+                },
+                {
+                  "kind": "answer",
+                  "label": "DA 3",
+                  "src": "part-5-6/06-thi-online-1-dai-tu-1/da-3.pdf",
+                  "bytes": 1012513
+                }
+              ],
+              "exam": {
+                "questions": 40,
+                "options": 4,
+                "seconds": 1796,
+                "key": "BAADADCBBCBDDDCDCBDBCBCABCCABBBBCCACCACB",
+                "cards": 40
+              }
+            }
+          ]
+        },
+        {
+          "id": "part-5-6/07-part-5-6-pronoun-dai-tu-2",
+          "slug": "07-part-5-6-pronoun-dai-tu-2",
+          "title": "(Part 5-6) Pronoun - Đại từ (2)",
+          "order": "07",
+          "groups": [
+            {
+              "title": null,
+              "items": [
+                {
+                  "kind": "theory",
+                  "label": "Đại từ (tiếp)",
+                  "src": "part-5-6/07-part-5-6-pronoun-dai-tu-2/dai-tu-tiep.pdf",
+                  "bytes": 515192
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "part-5-6/08-thi-online-2-dai-tu-2",
+          "slug": "08-thi-online-2-dai-tu-2",
+          "title": "Thi online 2. Đại từ (2)",
+          "order": "08",
+          "groups": [
+            {
+              "title": null,
+              "items": [
+                {
+                  "kind": "question",
+                  "label": "DE 1",
+                  "src": "part-5-6/08-thi-online-2-dai-tu-2/de-1.pdf",
+                  "bytes": 280360
+                }
+              ],
+              "exam": {
+                "questions": 40,
+                "options": 4,
+                "seconds": 1791
+              }
+            }
+          ]
+        },
+        {
+          "id": "part-5-6/9-thi-thu-part-5-1",
+          "slug": "9-thi-thu-part-5-1",
+          "title": "Thi thử part 5 (1)",
+          "order": "9",
+          "groups": [
+            {
+              "title": null,
+              "items": [
+                {
+                  "kind": "answer",
+                  "label": "Thi online- Part 5 (1) - KEY",
+                  "src": "part-5-6/9-thi-thu-part-5-1/thi-online-part-5-1-key.pdf",
+                  "bytes": 1655962
+                }
+              ],
+              "exam": {
+                "questions": 39,
+                "options": 4,
+                "key": "DCACADCBDBDCDADDABABCCCBBBBAABDDCCDCABD"
+              }
+            }
+          ]
+        },
+        {
+          "id": "part-5-6/10-thi-online-part-6",
+          "slug": "10-thi-online-part-6",
+          "title": "Thi online - Part 6",
+          "order": "10",
+          "groups": [
+            {
+              "title": null,
+              "items": [
+                {
+                  "kind": "question",
+                  "label": "DE 3",
+                  "src": "part-5-6/10-thi-online-part-6/de-3.pdf",
+                  "bytes": 154054
+                },
+                {
+                  "kind": "answer",
+                  "label": "DA 3",
+                  "src": "part-5-6/10-thi-online-part-6/da-3.pdf",
+                  "bytes": 538016
+                }
+              ],
+              "exam": {
+                "questions": 12,
+                "options": 4,
+                "seconds": 888,
+                "key": "BCBDBAACDCDD",
+                "cards": 12
+              }
+            }
+          ]
+        },
+        {
+          "id": "part-5-6/11-part-5-6-cau-tao-tu",
+          "slug": "11-part-5-6-cau-tao-tu",
+          "title": "(Part 5-6) Cấu tạo từ",
+          "order": "11",
+          "groups": [
+            {
+              "title": null,
+              "items": [
+                {
+                  "kind": "theory",
+                  "label": "PARTOFSPEECH",
+                  "src": "part-5-6/11-part-5-6-cau-tao-tu/partofspeech.pdf",
+                  "bytes": 464651
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "part-5-6/12-part-5-6-chua-bai-tap-cau-tao-tu",
+          "slug": "12-part-5-6-chua-bai-tap-cau-tao-tu",
+          "title": "(Part 5-6) Chữa bài tập cấu tạo từ",
+          "order": "12",
+          "groups": [
+            {
+              "title": null,
+              "items": [
+                {
+                  "kind": "theory",
+                  "label": "Chữa bài tập cấu tạo từ",
+                  "src": "part-5-6/12-part-5-6-chua-bai-tap-cau-tao-tu/chua-bai-tap-cau-tao-tu.pdf",
+                  "bytes": 318198
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "part-5-6/13-part-5-6-functions-of-noun-and-verbs-chuc-nang-danh-dong-tu",
+          "slug": "13-part-5-6-functions-of-noun-and-verbs-chuc-nang-danh-dong-tu",
+          "title": "(Part 5-6) Functions of noun and verbs - Chức năng danh động từ",
+          "order": "13",
+          "groups": [
+            {
+              "title": null,
+              "items": [
+                {
+                  "kind": "theory",
+                  "label": "Unit 1 Chức năng của danh từ và động từ",
+                  "src": "part-5-6/13-part-5-6-functions-of-noun-and-verbs-chuc-nang-danh-dong-tu/unit-1-chuc-nang-cua-danh-tu-va-dong-tu.pdf",
+                  "bytes": 255155
+                },
+                {
+                  "kind": "question",
+                  "label": "Thi online 1 Unit 1",
+                  "src": "part-5-6/13-part-5-6-functions-of-noun-and-verbs-chuc-nang-danh-dong-tu/thi-online-1-unit-1.pdf",
+                  "bytes": 104301
+                },
+                {
+                  "kind": "question",
+                  "label": "Thi online 2 Unit 1",
+                  "src": "part-5-6/13-part-5-6-functions-of-noun-and-verbs-chuc-nang-danh-dong-tu/thi-online-2-unit-1.pdf",
+                  "bytes": 180771
+                },
+                {
+                  "kind": "question",
+                  "label": "Thi online 3 Unit 1",
+                  "src": "part-5-6/13-part-5-6-functions-of-noun-and-verbs-chuc-nang-danh-dong-tu/thi-online-3-unit-1.pdf",
+                  "bytes": 171449
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "part-5-6/14-bai-thi-online-1-chuc-nang-danh-dong-tu",
+          "slug": "14-bai-thi-online-1-chuc-nang-danh-dong-tu",
+          "title": "Bài thi online 1 - Chức năng danh động từ",
+          "order": "14",
+          "groups": [
+            {
+              "title": null,
+              "items": [
+                {
+                  "kind": "question",
+                  "label": "DE 1",
+                  "src": "part-5-6/14-bai-thi-online-1-chuc-nang-danh-dong-tu/de-1.pdf",
+                  "bytes": 272063
+                },
+                {
+                  "kind": "answer",
+                  "label": "DA 1",
+                  "src": "part-5-6/14-bai-thi-online-1-chuc-nang-danh-dong-tu/da-1.pdf",
+                  "bytes": 884410
+                }
+              ],
+              "exam": {
+                "questions": 35,
+                "options": 4,
+                "seconds": 1792,
+                "key": "DACDACBADBADBBDBDBCADDBAACADACABBAD",
+                "cards": 35
+              }
+            }
+          ]
+        },
+        {
+          "id": "part-5-6/15-bai-thi-online-2-chuc-nang-danh-dong-tu",
+          "slug": "15-bai-thi-online-2-chuc-nang-danh-dong-tu",
+          "title": "Bài thi online 2 - Chức năng danh động từ",
+          "order": "15",
+          "groups": [
+            {
+              "title": null,
+              "items": [
+                {
+                  "kind": "question",
+                  "label": "DE 2",
+                  "src": "part-5-6/15-bai-thi-online-2-chuc-nang-danh-dong-tu/de-2.pdf",
+                  "bytes": 281693
+                },
+                {
+                  "kind": "answer",
+                  "label": "DA 2",
+                  "src": "part-5-6/15-bai-thi-online-2-chuc-nang-danh-dong-tu/da-2.pdf",
+                  "bytes": 905797
+                }
+              ],
+              "exam": {
+                "questions": 35,
+                "options": 4,
+                "seconds": 1798,
+                "key": "ABADCCABAADABBBBBDABACDADACDCAADBCA",
+                "cards": 35
+              }
+            }
+          ]
+        },
+        {
+          "id": "part-5-6/16-bai-thi-online-3-chuc-nang-danh-dong-tu",
+          "slug": "16-bai-thi-online-3-chuc-nang-danh-dong-tu",
+          "title": "Bài thi online 3 - Chức năng danh động từ",
+          "order": "16",
+          "groups": [
+            {
+              "title": null,
+              "items": [
+                {
+                  "kind": "question",
+                  "label": "DE 3",
+                  "src": "part-5-6/16-bai-thi-online-3-chuc-nang-danh-dong-tu/de-3.pdf",
+                  "bytes": 262584
+                },
+                {
+                  "kind": "answer",
+                  "label": "DA 3",
+                  "src": "part-5-6/16-bai-thi-online-3-chuc-nang-danh-dong-tu/da-3.pdf",
+                  "bytes": 791472
+                }
+              ],
+              "exam": {
+                "questions": 32,
+                "options": 4,
+                "seconds": 1493,
+                "cards": 30
+              }
+            }
+          ]
+        },
+        {
+          "id": "part-5-6/17-thi-online-part-5",
+          "slug": "17-thi-online-part-5",
+          "title": "Thi online - Part 5",
+          "order": "17",
+          "groups": [
+            {
+              "title": null,
+              "items": [
+                {
+                  "kind": "question",
+                  "label": "DE 4",
+                  "src": "part-5-6/17-thi-online-part-5/de-4.pdf",
+                  "bytes": 270429
+                },
+                {
+                  "kind": "answer",
+                  "label": "DA 4",
+                  "src": "part-5-6/17-thi-online-part-5/da-4.pdf",
+                  "bytes": 1460800
+                }
+              ],
+              "exam": {
+                "questions": 40,
+                "options": 4,
+                "seconds": 1488,
+                "key": "BCCBDDACADDBDCDCABBACCDDAAABCBDCABDCBCBB",
+                "cards": 40
+              }
+            }
+          ]
+        },
+        {
+          "id": "part-5-6/18-thi-online-part-6-1",
+          "slug": "18-thi-online-part-6-1",
+          "title": "Thi online - Part 6 (1)",
+          "order": "18",
+          "groups": [
+            {
+              "title": null,
+              "items": [
+                {
+                  "kind": "question",
+                  "label": "DE 5",
+                  "src": "part-5-6/18-thi-online-part-6-1/de-5.pdf",
+                  "bytes": 155768
+                },
+                {
+                  "kind": "answer",
+                  "label": "DA 5",
+                  "src": "part-5-6/18-thi-online-part-6-1/da-5.pdf",
+                  "bytes": 523063
+                }
+              ],
+              "exam": {
+                "questions": 12,
+                "options": 4,
+                "seconds": 895,
+                "key": "ACACBABADCDB",
+                "cards": 12
+              }
+            }
+          ]
+        },
+        {
+          "id": "part-5-6/19-part-5-6-functions-of-adjective-and-adverbs-chuc-nang-tinh-trang-tu",
+          "slug": "19-part-5-6-functions-of-adjective-and-adverbs-chuc-nang-tinh-trang-tu",
+          "title": "(Part 5-6) Functions of adjective and adverbs -Chức năng Tính - Trạng từ",
+          "order": "19",
+          "groups": [
+            {
+              "title": null,
+              "items": [
+                {
+                  "kind": "theory",
+                  "label": "Unit 2 Tính từ và trạng từ",
+                  "src": "part-5-6/19-part-5-6-functions-of-adjective-and-adverbs-chuc-nang-tinh-trang-tu/unit-2-tinh-tu-va-trang-tu.pdf",
+                  "bytes": 215371
+                },
+                {
+                  "kind": "question",
+                  "label": "Thi online 1 Unit 2",
+                  "src": "part-5-6/19-part-5-6-functions-of-adjective-and-adverbs-chuc-nang-tinh-trang-tu/thi-online-1-unit-2.pdf",
+                  "bytes": 144785
+                },
+                {
+                  "kind": "question",
+                  "label": "Thi online 3 Unit 2",
+                  "src": "part-5-6/19-part-5-6-functions-of-adjective-and-adverbs-chuc-nang-tinh-trang-tu/thi-online-3-unit-2.pdf",
+                  "bytes": 169122
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "part-5-6/20-bai-thi-online-1-chuc-nang-tinh-trang-tu",
+          "slug": "20-bai-thi-online-1-chuc-nang-tinh-trang-tu",
+          "title": "Bài thi online 1 - Chức năng Tính - Trạng từ",
+          "order": "20",
+          "groups": [
+            {
+              "title": null,
+              "items": [
+                {
+                  "kind": "answer",
+                  "label": "DA 1",
+                  "src": "part-5-6/20-bai-thi-online-1-chuc-nang-tinh-trang-tu/da-1.pdf",
+                  "bytes": 224688
+                }
+              ],
+              "exam": {
+                "questions": 6,
+                "options": 4,
+                "key": "CADDCB",
+                "cards": 6
+              }
+            }
+          ]
+        },
+        {
+          "id": "part-5-6/21-bai-thi-online-2-chuc-nang-tinh-trang-tu",
+          "slug": "21-bai-thi-online-2-chuc-nang-tinh-trang-tu",
+          "title": "Bài thi online 2 - Chức năng Tính - Trạng từ",
+          "order": "21",
+          "groups": [
+            {
+              "title": null,
+              "items": [
+                {
+                  "kind": "question",
+                  "label": "DE 2",
+                  "src": "part-5-6/21-bai-thi-online-2-chuc-nang-tinh-trang-tu/de-2.pdf",
+                  "bytes": 259872
+                },
+                {
+                  "kind": "answer",
+                  "label": "DA 2",
+                  "src": "part-5-6/21-bai-thi-online-2-chuc-nang-tinh-trang-tu/da-2.pdf",
+                  "bytes": 785873
+                }
+              ],
+              "exam": {
+                "questions": 30,
+                "options": 4,
+                "seconds": 1784,
+                "key": "ACBADBCBBAABBABACCDDADCACAADBC",
+                "cards": 30
+              }
+            }
+          ]
+        },
+        {
+          "id": "part-5-6/22-bai-thi-online-3-chuc-nang-tinh-trang-tu",
+          "slug": "22-bai-thi-online-3-chuc-nang-tinh-trang-tu",
+          "title": "Bài thi online 3 - Chức năng Tính - Trạng từ",
+          "order": "22",
+          "groups": [
+            {
+              "title": null,
+              "items": [
+                {
+                  "kind": "question",
+                  "label": "DE 3",
+                  "src": "part-5-6/22-bai-thi-online-3-chuc-nang-tinh-trang-tu/de-3.pdf",
+                  "bytes": 268052
+                },
+                {
+                  "kind": "answer",
+                  "label": "DA 3",
+                  "src": "part-5-6/22-bai-thi-online-3-chuc-nang-tinh-trang-tu/da-3.pdf",
+                  "bytes": 777373
+                }
+              ],
+              "exam": {
+                "questions": 30,
+                "options": 4,
+                "seconds": 1788,
+                "key": "CBABABBCBDCABABDDCBAABCCACBBBD",
+                "cards": 30
+              }
+            }
+          ]
+        },
+        {
+          "id": "part-5-6/23-thi-online-part-5-1",
+          "slug": "23-thi-online-part-5-1",
+          "title": "Thi online - Part 5 (1)",
+          "order": "23",
+          "groups": [
+            {
+              "title": null,
+              "items": [
+                {
+                  "kind": "question",
+                  "label": "DE 4",
+                  "src": "part-5-6/23-thi-online-part-5-1/de-4.pdf",
+                  "bytes": 267737
+                },
+                {
+                  "kind": "answer",
+                  "label": "DA 4",
+                  "src": "part-5-6/23-thi-online-part-5-1/da-4.pdf",
+                  "bytes": 1396496
+                }
+              ],
+              "exam": {
+                "questions": 40,
+                "options": 4,
+                "seconds": 1495,
+                "key": "ABABCBACABBCAABCABCBDAADCDDDBCBCDDDBCDAA",
+                "cards": 40
+              }
+            }
+          ]
+        },
+        {
+          "id": "part-5-6/24-thi-online-part-6-2",
+          "slug": "24-thi-online-part-6-2",
+          "title": "Thi online - Part 6 (2)",
+          "order": "24",
+          "groups": [
+            {
+              "title": null,
+              "items": [
+                {
+                  "kind": "question",
+                  "label": "DE 5",
+                  "src": "part-5-6/24-thi-online-part-6-2/de-5.pdf",
+                  "bytes": 151274
+                },
+                {
+                  "kind": "answer",
+                  "label": "DA 5",
+                  "src": "part-5-6/24-thi-online-part-6-2/da-5.pdf",
+                  "bytes": 475298
+                }
+              ],
+              "exam": {
+                "questions": 12,
+                "options": 4,
+                "seconds": 894,
+                "key": "BCBBCDBADACA",
+                "cards": 12
+              }
+            }
+          ]
+        },
+        {
+          "id": "part-5-6/25-part-5-6-agreement-su-hoa-hop-giua-chu-ngu-va-dong-tu",
+          "slug": "25-part-5-6-agreement-su-hoa-hop-giua-chu-ngu-va-dong-tu",
+          "title": "(Part 5-6) Agreement - Sự hòa hợp giữa Chủ ngữ và Động từ",
+          "order": "25",
+          "groups": [
+            {
+              "title": null,
+              "items": [
+                {
+                  "kind": "theory",
+                  "label": "Unit 3 Agreement",
+                  "src": "part-5-6/25-part-5-6-agreement-su-hoa-hop-giua-chu-ngu-va-dong-tu/unit-3-agreement.pdf",
+                  "bytes": 211339
+                },
+                {
+                  "kind": "question",
+                  "label": "Thi online 1 Unit 3",
+                  "src": "part-5-6/25-part-5-6-agreement-su-hoa-hop-giua-chu-ngu-va-dong-tu/thi-online-1-unit-3.pdf",
+                  "bytes": 137951
+                },
+                {
+                  "kind": "question",
+                  "label": "Thi online 2 Unit 3",
+                  "src": "part-5-6/25-part-5-6-agreement-su-hoa-hop-giua-chu-ngu-va-dong-tu/thi-online-2-unit-3.pdf",
+                  "bytes": 160874
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "part-5-6/26-bai-thi-online-1-su-hoa-hop-danh-va-dong-tu",
+          "slug": "26-bai-thi-online-1-su-hoa-hop-danh-va-dong-tu",
+          "title": "Bài thi online 1 - Sự hòa hợp Danh và Động từ",
+          "order": "26",
+          "groups": [
+            {
+              "title": null,
+              "items": [
+                {
+                  "kind": "question",
+                  "label": "DE 1",
+                  "src": "part-5-6/26-bai-thi-online-1-su-hoa-hop-danh-va-dong-tu/de-1.pdf",
+                  "bytes": 219270
+                },
+                {
+                  "kind": "answer",
+                  "label": "DA 1",
+                  "src": "part-5-6/26-bai-thi-online-1-su-hoa-hop-danh-va-dong-tu/da-1.pdf",
+                  "bytes": 673920
+                }
+              ],
+              "exam": {
+                "questions": 30,
+                "options": 4,
+                "seconds": 1794,
+                "key": "ADDBDABDBACAAABCACAAABCBCCDBBA",
+                "cards": 30
+              }
+            }
+          ]
+        },
+        {
+          "id": "part-5-6/27-bai-thi-online-2-su-hoa-hop-danh-va-dong-tu",
+          "slug": "27-bai-thi-online-2-su-hoa-hop-danh-va-dong-tu",
+          "title": "Bài thi online 2 - Sự hòa hợp Danh và Động từ",
+          "order": "27",
+          "groups": [
+            {
+              "title": null,
+              "items": [
+                {
+                  "kind": "question",
+                  "label": "DE 2",
+                  "src": "part-5-6/27-bai-thi-online-2-su-hoa-hop-danh-va-dong-tu/de-2.pdf",
+                  "bytes": 221157
+                },
+                {
+                  "kind": "answer",
+                  "label": "DA 2",
+                  "src": "part-5-6/27-bai-thi-online-2-su-hoa-hop-danh-va-dong-tu/da-2.pdf",
+                  "bytes": 758912
+                }
+              ],
+              "exam": {
+                "questions": 30,
+                "options": 4,
+                "seconds": 1796,
+                "key": "DCAACDAACDCAADACBABBDCDBCAACAB",
+                "cards": 29
+              }
+            }
+          ]
+        },
+        {
+          "id": "part-5-6/28-bai-thi-online-3-su-hoa-hop-danh-va-dong-tu",
+          "slug": "28-bai-thi-online-3-su-hoa-hop-danh-va-dong-tu",
+          "title": "Bài thi online 3 - Sự hòa hợp Danh và Động từ",
+          "order": "28",
+          "groups": [
+            {
+              "title": null,
+              "items": [
+                {
+                  "kind": "question",
+                  "label": "DE 3",
+                  "src": "part-5-6/28-bai-thi-online-3-su-hoa-hop-danh-va-dong-tu/de-3.pdf",
+                  "bytes": 244119
+                },
+                {
+                  "kind": "answer",
+                  "label": "DA 3",
+                  "src": "part-5-6/28-bai-thi-online-3-su-hoa-hop-danh-va-dong-tu/da-3.pdf",
+                  "bytes": 783199
+                }
+              ],
+              "exam": {
+                "questions": 30,
+                "options": 4,
+                "seconds": 1794,
+                "key": "DBCCAABCCCAAACDBCBABABDBCAAACB",
+                "cards": 30
+              }
+            }
+          ]
+        },
+        {
+          "id": "part-5-6/29-thi-online-part-5-2",
+          "slug": "29-thi-online-part-5-2",
+          "title": "Thi online - Part 5 (2)",
+          "order": "29",
+          "groups": [
+            {
+              "title": null,
+              "items": [
+                {
+                  "kind": "question",
+                  "label": "DE 4",
+                  "src": "part-5-6/29-thi-online-part-5-2/de-4.pdf",
+                  "bytes": 277016
+                },
+                {
+                  "kind": "answer",
+                  "label": "DA 4",
+                  "src": "part-5-6/29-thi-online-part-5-2/da-4.pdf",
+                  "bytes": 1452878
+                }
+              ],
+              "exam": {
+                "questions": 40,
+                "options": 4,
+                "seconds": 1498,
+                "key": "ABBBDBBABDBCABDBCBBCDABCACBCABADBADCDDCB",
+                "cards": 40
+              }
+            }
+          ]
+        },
+        {
+          "id": "part-5-6/30-thi-online-part-6-3",
+          "slug": "30-thi-online-part-6-3",
+          "title": "Thi online - Part 6 (3)",
+          "order": "30",
+          "groups": [
+            {
+              "title": null,
+              "items": [
+                {
+                  "kind": "question",
+                  "label": "DE 5",
+                  "src": "part-5-6/30-thi-online-part-6-3/de-5.pdf",
+                  "bytes": 158377
+                },
+                {
+                  "kind": "answer",
+                  "label": "DA 5",
+                  "src": "part-5-6/30-thi-online-part-6-3/da-5.pdf",
+                  "bytes": 499607
+                }
+              ],
+              "exam": {
+                "questions": 12,
+                "options": 4,
+                "seconds": 894,
+                "key": "CAADCDCADBAD",
+                "cards": 12
+              }
+            }
+          ]
+        },
+        {
+          "id": "part-5-6/31-part-5-6-conjunction-and-conjuctive-adverbs-lien-tu-va-trang-tu-lien-tu",
+          "slug": "31-part-5-6-conjunction-and-conjuctive-adverbs-lien-tu-va-trang-tu-lien-tu",
+          "title": "(Part 5-6) Conjunction and conjuctive adverbs - Liên từ và trạng từ liên từ",
+          "order": "31",
+          "groups": [
+            {
+              "title": null,
+              "items": [
+                {
+                  "kind": "theory",
+                  "label": "Unit 4 Conjunctions and conjunctive adverbs",
+                  "src": "part-5-6/31-part-5-6-conjunction-and-conjuctive-adverbs-lien-tu-va-trang-tu-lien-tu/unit-4-conjunctions-and-conjunctive-adverbs.pdf",
+                  "bytes": 191218
+                },
+                {
+                  "kind": "question",
+                  "label": "Thi online 1 unit 4",
+                  "src": "part-5-6/31-part-5-6-conjunction-and-conjuctive-adverbs-lien-tu-va-trang-tu-lien-tu/thi-online-1-unit-4.pdf",
+                  "bytes": 154892
+                },
+                {
+                  "kind": "question",
+                  "label": "Thi online 2 unit4",
+                  "src": "part-5-6/31-part-5-6-conjunction-and-conjuctive-adverbs-lien-tu-va-trang-tu-lien-tu/thi-online-2-unit4.pdf",
+                  "bytes": 157522
+                },
+                {
+                  "kind": "question",
+                  "label": "Thi online 3 unit 4",
+                  "src": "part-5-6/31-part-5-6-conjunction-and-conjuctive-adverbs-lien-tu-va-trang-tu-lien-tu/thi-online-3-unit-4.pdf",
+                  "bytes": 164657
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "part-5-6/32-bai-thi-online-1-lien-tu-va-trang-tu-lien-tu",
+          "slug": "32-bai-thi-online-1-lien-tu-va-trang-tu-lien-tu",
+          "title": "Bài thi online 1 - Liên từ và trạng từ Liên từ",
+          "order": "32",
+          "groups": [
+            {
+              "title": null,
+              "items": [
+                {
+                  "kind": "question",
+                  "label": "DE 1",
+                  "src": "part-5-6/32-bai-thi-online-1-lien-tu-va-trang-tu-lien-tu/de-1.pdf",
+                  "bytes": 245319
+                },
+                {
+                  "kind": "answer",
+                  "label": "DA 1",
+                  "src": "part-5-6/32-bai-thi-online-1-lien-tu-va-trang-tu-lien-tu/da-1.pdf",
+                  "bytes": 740223
+                }
+              ],
+              "exam": {
+                "questions": 30,
+                "options": 4,
+                "seconds": 1774,
+                "key": "CADCCACDDACADADDDABDDCDDACDCBA",
+                "cards": 30
+              }
+            }
+          ]
+        },
+        {
+          "id": "part-5-6/33-bai-thi-online-2-lien-tu-va-trang-tu-lien-tu",
+          "slug": "33-bai-thi-online-2-lien-tu-va-trang-tu-lien-tu",
+          "title": "Bài thi online 2 - Liên từ và trạng từ Liên từ",
+          "order": "33",
+          "groups": [
+            {
+              "title": null,
+              "items": [
+                {
+                  "kind": "question",
+                  "label": "DE 2",
+                  "src": "part-5-6/33-bai-thi-online-2-lien-tu-va-trang-tu-lien-tu/de-2.pdf",
+                  "bytes": 249429
+                },
+                {
+                  "kind": "answer",
+                  "label": "DA 2",
+                  "src": "part-5-6/33-bai-thi-online-2-lien-tu-va-trang-tu-lien-tu/da-2.pdf",
+                  "bytes": 715334
+                }
+              ],
+              "exam": {
+                "questions": 30,
+                "options": 4,
+                "seconds": 1783,
+                "key": "CDADABCCCBDBCDCDACAABCADACDDCA",
+                "cards": 30
+              }
+            }
+          ]
+        },
+        {
+          "id": "part-5-6/34-bai-thi-online-3-lien-tu-va-trang-tu-lien-tu",
+          "slug": "34-bai-thi-online-3-lien-tu-va-trang-tu-lien-tu",
+          "title": "Bài thi online 3 - Liên từ và trạng từ Liên từ",
+          "order": "34",
+          "groups": [
+            {
+              "title": null,
+              "items": [
+                {
+                  "kind": "question",
+                  "label": "DE 3",
+                  "src": "part-5-6/34-bai-thi-online-3-lien-tu-va-trang-tu-lien-tu/de-3.pdf",
+                  "bytes": 229098
+                },
+                {
+                  "kind": "answer",
+                  "label": "DA 3",
+                  "src": "part-5-6/34-bai-thi-online-3-lien-tu-va-trang-tu-lien-tu/da-3.pdf",
+                  "bytes": 718964
+                }
+              ],
+              "exam": {
+                "questions": 30,
+                "options": 4,
+                "seconds": 1796,
+                "key": "BCCCADDBABBDADCCDDABADCBCACCDC",
+                "cards": 30
+              }
+            }
+          ]
+        },
+        {
+          "id": "part-5-6/35-thi-online-part-5-3",
+          "slug": "35-thi-online-part-5-3",
+          "title": "Thi online - Part 5 (3)",
+          "order": "35",
+          "groups": [
+            {
+              "title": null,
+              "items": [
+                {
+                  "kind": "question",
+                  "label": "DE 4",
+                  "src": "part-5-6/35-thi-online-part-5-3/de-4.pdf",
+                  "bytes": 283747
+                },
+                {
+                  "kind": "answer",
+                  "label": "DA 4",
+                  "src": "part-5-6/35-thi-online-part-5-3/da-4.pdf",
+                  "bytes": 1449690
+                }
+              ],
+              "exam": {
+                "questions": 40,
+                "options": 4,
+                "seconds": 1490,
+                "key": "CDCDACACBAADADCADBDBDCCBDCBCBABDCBAABADB",
+                "cards": 40
+              }
+            }
+          ]
+        },
+        {
+          "id": "part-5-6/36-thi-online-part-6-4",
+          "slug": "36-thi-online-part-6-4",
+          "title": "Thi online - Part 6 (4)",
+          "order": "36",
+          "groups": [
+            {
+              "title": null,
+              "items": [
+                {
+                  "kind": "question",
+                  "label": "DE 5",
+                  "src": "part-5-6/36-thi-online-part-6-4/de-5.pdf",
+                  "bytes": 161632
+                },
+                {
+                  "kind": "answer",
+                  "label": "DA 5",
+                  "src": "part-5-6/36-thi-online-part-6-4/da-5.pdf",
+                  "bytes": 465214
+                }
+              ],
+              "exam": {
+                "questions": 12,
+                "options": 4,
+                "seconds": 895,
+                "key": "CDCCCAABDDDA",
+                "cards": 12
+              }
+            }
+          ]
+        },
+        {
+          "id": "part-5-6/37-part-5-6-relative-clause-menh-de-quan-he",
+          "slug": "37-part-5-6-relative-clause-menh-de-quan-he",
+          "title": "(Part 5-6). Relative clause - Mệnh đề quan hệ",
+          "order": "37",
+          "groups": [
+            {
+              "title": null,
+              "items": [
+                {
+                  "kind": "theory",
+                  "label": "Unit 5 Relative Clauses",
+                  "src": "part-5-6/37-part-5-6-relative-clause-menh-de-quan-he/unit-5-relative-clauses.pdf",
+                  "bytes": 209847
+                },
+                {
+                  "kind": "question",
+                  "label": "Thi online 1 Unit 5",
+                  "src": "part-5-6/37-part-5-6-relative-clause-menh-de-quan-he/thi-online-1-unit-5.pdf",
+                  "bytes": 153745
+                },
+                {
+                  "kind": "question",
+                  "label": "Thi online 2 Unit 5",
+                  "src": "part-5-6/37-part-5-6-relative-clause-menh-de-quan-he/thi-online-2-unit-5.pdf",
+                  "bytes": 139960
+                },
+                {
+                  "kind": "question",
+                  "label": "Thi online 3 Unit 5",
+                  "src": "part-5-6/37-part-5-6-relative-clause-menh-de-quan-he/thi-online-3-unit-5.pdf",
+                  "bytes": 151516
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "part-5-6/38-bai-thi-online-1-menh-de-quan-he",
+          "slug": "38-bai-thi-online-1-menh-de-quan-he",
+          "title": "Bài thi online 1 - Mệnh đề quan hệ",
+          "order": "38",
+          "groups": [
+            {
+              "title": null,
+              "items": [
+                {
+                  "kind": "question",
+                  "label": "DE 1",
+                  "src": "part-5-6/38-bai-thi-online-1-menh-de-quan-he/de-1.pdf",
+                  "bytes": 222465
+                },
+                {
+                  "kind": "answer",
+                  "label": "DA 1",
+                  "src": "part-5-6/38-bai-thi-online-1-menh-de-quan-he/da-1.pdf",
+                  "bytes": 636768
+                }
+              ],
+              "exam": {
+                "questions": 30,
+                "options": 4,
+                "seconds": 1787,
+                "key": "DCBACCBDDAABDAACDACABDAAACBBDA",
+                "cards": 30
+              }
+            }
+          ]
+        },
+        {
+          "id": "part-5-6/39-bai-thi-online-2-menh-de-quan-he",
+          "slug": "39-bai-thi-online-2-menh-de-quan-he",
+          "title": "Bài thi online 2 - Mệnh đề quan hệ",
+          "order": "39",
+          "groups": [
+            {
+              "title": null,
+              "items": [
+                {
+                  "kind": "question",
+                  "label": "DE 2",
+                  "src": "part-5-6/39-bai-thi-online-2-menh-de-quan-he/de-2.pdf",
+                  "bytes": 223865
+                },
+                {
+                  "kind": "answer",
+                  "label": "DA 2",
+                  "src": "part-5-6/39-bai-thi-online-2-menh-de-quan-he/da-2.pdf",
+                  "bytes": 688784
+                }
+              ],
+              "exam": {
+                "questions": 30,
+                "options": 4,
+                "seconds": 1798,
+                "cards": 30
+              }
+            }
+          ]
+        },
+        {
+          "id": "part-5-6/40-bai-thi-online-3-menh-de-quan-he",
+          "slug": "40-bai-thi-online-3-menh-de-quan-he",
+          "title": "Bài thi online 3 - Mệnh đề quan hệ",
+          "order": "40",
+          "groups": [
+            {
+              "title": null,
+              "items": [
+                {
+                  "kind": "question",
+                  "label": "DE 3",
+                  "src": "part-5-6/40-bai-thi-online-3-menh-de-quan-he/de-3.pdf",
+                  "bytes": 228327
+                },
+                {
+                  "kind": "answer",
+                  "label": "DA 3",
+                  "src": "part-5-6/40-bai-thi-online-3-menh-de-quan-he/da-3.pdf",
+                  "bytes": 702919
+                }
+              ],
+              "exam": {
+                "questions": 30,
+                "options": 4,
+                "seconds": 1796,
+                "key": "CCDBDACBBABDACADBCCCABCCDBACAD",
+                "cards": 30
+              }
+            }
+          ]
+        },
+        {
+          "id": "part-5-6/41-thi-online-part-5-4",
+          "slug": "41-thi-online-part-5-4",
+          "title": "Thi online - Part 5 (4)",
+          "order": "41",
+          "groups": [
+            {
+              "title": null,
+              "items": [
+                {
+                  "kind": "question",
+                  "label": "DE 4",
+                  "src": "part-5-6/41-thi-online-part-5-4/de-4.pdf",
+                  "bytes": 281447
+                },
+                {
+                  "kind": "answer",
+                  "label": "DA 4",
+                  "src": "part-5-6/41-thi-online-part-5-4/da-4.pdf",
+                  "bytes": 1531071
+                }
+              ],
+              "exam": {
+                "questions": 40,
+                "options": 4,
+                "seconds": 1496,
+                "key": "BCAADCDBCCACDCCDDCBCDBAAACDBACDBBACDDBDB",
+                "cards": 40
+              }
+            }
+          ]
+        },
+        {
+          "id": "part-5-6/42-thi-online-part-6-5",
+          "slug": "42-thi-online-part-6-5",
+          "title": "Thi online - Part 6 (5)",
+          "order": "42",
+          "groups": [
+            {
+              "title": null,
+              "items": [
+                {
+                  "kind": "question",
+                  "label": "DE 5",
+                  "src": "part-5-6/42-thi-online-part-6-5/de-5.pdf",
+                  "bytes": 154231
+                },
+                {
+                  "kind": "answer",
+                  "label": "DA 5",
+                  "src": "part-5-6/42-thi-online-part-6-5/da-5.pdf",
+                  "bytes": 493200
+                }
+              ],
+              "exam": {
+                "questions": 12,
+                "options": 4,
+                "seconds": 868,
+                "key": "DDCAACCDDCCC",
+                "cards": 12
+              }
+            }
+          ]
+        },
+        {
+          "id": "part-5-6/43-part-5-6-to-infinitive-and-gerunds-danh-dong-tu-va-dong-tu-nguyen-mau",
+          "slug": "43-part-5-6-to-infinitive-and-gerunds-danh-dong-tu-va-dong-tu-nguyen-mau",
+          "title": "(Part 5-6) To infinitive and gerunds - Danh động từ và động từ nguyên mẫu",
+          "order": "43",
+          "groups": [
+            {
+              "title": null,
+              "items": [
+                {
+                  "kind": "question",
+                  "label": "Thi online 1 Unit 6",
+                  "src": "part-5-6/43-part-5-6-to-infinitive-and-gerunds-danh-dong-tu-va-dong-tu-nguyen-mau/thi-online-1-unit-6.pdf",
+                  "bytes": 139599
+                },
+                {
+                  "kind": "question",
+                  "label": "Thi online 2 Unit 6",
+                  "src": "part-5-6/43-part-5-6-to-infinitive-and-gerunds-danh-dong-tu-va-dong-tu-nguyen-mau/thi-online-2-unit-6.pdf",
+                  "bytes": 98310
+                },
+                {
+                  "kind": "question",
+                  "label": "Thi online 3 Unit 6",
+                  "src": "part-5-6/43-part-5-6-to-infinitive-and-gerunds-danh-dong-tu-va-dong-tu-nguyen-mau/thi-online-3-unit-6.pdf",
+                  "bytes": 149003
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "part-5-6/44-bai-thi-online-1-danh-dong-tu-va-dong-tu-nguyen-mau",
+          "slug": "44-bai-thi-online-1-danh-dong-tu-va-dong-tu-nguyen-mau",
+          "title": "Bài thi online 1- Danh động từ và động từ nguyên mẫu",
+          "order": "44",
+          "groups": [
+            {
+              "title": null,
+              "items": [
+                {
+                  "kind": "question",
+                  "label": "DE 1",
+                  "src": "part-5-6/44-bai-thi-online-1-danh-dong-tu-va-dong-tu-nguyen-mau/de-1.pdf",
+                  "bytes": 219260
+                },
+                {
+                  "kind": "answer",
+                  "label": "DA 1",
+                  "src": "part-5-6/44-bai-thi-online-1-danh-dong-tu-va-dong-tu-nguyen-mau/da-1.pdf",
+                  "bytes": 633417
+                }
+              ],
+              "exam": {
+                "questions": 30,
+                "options": 4,
+                "seconds": 1790,
+                "key": "CDCBDBCBDBABBABDDCABBDABBABBAD",
+                "cards": 30
+              }
+            }
+          ]
+        },
+        {
+          "id": "part-5-6/45-bai-thi-online-2-danh-dong-tu-va-dong-tu-nguyen-mau",
+          "slug": "45-bai-thi-online-2-danh-dong-tu-va-dong-tu-nguyen-mau",
+          "title": "Bài thi online 2- Danh động từ và động từ nguyên mẫu",
+          "order": "45",
+          "groups": [
+            {
+              "title": null,
+              "items": [
+                {
+                  "kind": "question",
+                  "label": "DE 2",
+                  "src": "part-5-6/45-bai-thi-online-2-danh-dong-tu-va-dong-tu-nguyen-mau/de-2.pdf",
+                  "bytes": 224583
+                },
+                {
+                  "kind": "answer",
+                  "label": "DA 2",
+                  "src": "part-5-6/45-bai-thi-online-2-danh-dong-tu-va-dong-tu-nguyen-mau/da-2.pdf",
+                  "bytes": 677234
+                }
+              ],
+              "exam": {
+                "questions": 30,
+                "options": 4,
+                "seconds": 1785,
+                "key": "AADBADCBDCDDADCDBAACBBCDCCADBB",
+                "cards": 30
+              }
+            }
+          ]
+        },
+        {
+          "id": "part-5-6/46-bai-thi-online-3-danh-dong-tu-va-dong-tu-nguyen-mau",
+          "slug": "46-bai-thi-online-3-danh-dong-tu-va-dong-tu-nguyen-mau",
+          "title": "Bài thi online 3- Danh động từ và động từ nguyên mẫu",
+          "order": "46",
+          "groups": [
+            {
+              "title": null,
+              "items": [
+                {
+                  "kind": "question",
+                  "label": "DE 3",
+                  "src": "part-5-6/46-bai-thi-online-3-danh-dong-tu-va-dong-tu-nguyen-mau/de-3.pdf",
+                  "bytes": 247100
+                },
+                {
+                  "kind": "answer",
+                  "label": "DA 3",
+                  "src": "part-5-6/46-bai-thi-online-3-danh-dong-tu-va-dong-tu-nguyen-mau/da-3.pdf",
+                  "bytes": 709174
+                }
+              ],
+              "exam": {
+                "questions": 30,
+                "options": 4,
+                "seconds": 1795,
+                "key": "ABCCBAABCACBACDCCBBDDBDCBBDDBC",
+                "cards": 30
+              }
+            }
+          ]
+        },
+        {
+          "id": "part-5-6/47-thi-online-part-5-5",
+          "slug": "47-thi-online-part-5-5",
+          "title": "Thi online - Part 5 (5)",
+          "order": "47",
+          "groups": [
+            {
+              "title": null,
+              "items": [
+                {
+                  "kind": "question",
+                  "label": "DE 4",
+                  "src": "part-5-6/47-thi-online-part-5-5/de-4.pdf",
+                  "bytes": 274485
+                },
+                {
+                  "kind": "answer",
+                  "label": "DA 4",
+                  "src": "part-5-6/47-thi-online-part-5-5/da-4.pdf",
+                  "bytes": 1470320
+                }
+              ],
+              "exam": {
+                "questions": 40,
+                "options": 4,
+                "seconds": 1497,
+                "key": "DAADBAACBABDADAABBBDBDADBBDCDDADADCAADDC",
+                "cards": 40
+              }
+            }
+          ]
+        },
+        {
+          "id": "part-5-6/48-thi-online-part-6-6",
+          "slug": "48-thi-online-part-6-6",
+          "title": "Thi online - Part 6 (6)",
+          "order": "48",
+          "groups": [
+            {
+              "title": null,
+              "items": [
+                {
+                  "kind": "question",
+                  "label": "DE 5",
+                  "src": "part-5-6/48-thi-online-part-6-6/de-5.pdf",
+                  "bytes": 162834
+                },
+                {
+                  "kind": "answer",
+                  "label": "DA 5",
+                  "src": "part-5-6/48-thi-online-part-6-6/da-5.pdf",
+                  "bytes": 537274
+                }
+              ],
+              "exam": {
+                "questions": 12,
+                "options": 4,
+                "seconds": 891,
+                "key": "DCCADCDADCCA",
+                "cards": 12
+              }
+            }
+          ]
+        },
+        {
+          "id": "part-5-6/49-part-5-6-active-voice-passive-voice-pariticiples-phan-tu",
+          "slug": "49-part-5-6-active-voice-passive-voice-pariticiples-phan-tu",
+          "title": "(Part 5-6).Active voice - Passive voice - Pariticiples - Phân từ",
+          "order": "49",
+          "groups": [
+            {
+              "title": null,
+              "items": [
+                {
+                  "kind": "question",
+                  "label": "Thi online 1 Unit 7",
+                  "src": "part-5-6/49-part-5-6-active-voice-passive-voice-pariticiples-phan-tu/thi-online-1-unit-7.pdf",
+                  "bytes": 146284
+                },
+                {
+                  "kind": "question",
+                  "label": "Thi online 2 Unit 7",
+                  "src": "part-5-6/49-part-5-6-active-voice-passive-voice-pariticiples-phan-tu/thi-online-2-unit-7.pdf",
+                  "bytes": 93200
+                },
+                {
+                  "kind": "question",
+                  "label": "Thi online 3 Unit 7",
+                  "src": "part-5-6/49-part-5-6-active-voice-passive-voice-pariticiples-phan-tu/thi-online-3-unit-7.pdf",
+                  "bytes": 165328
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "part-5-6/50-bai-thi-online-1-phan-tu",
+          "slug": "50-bai-thi-online-1-phan-tu",
+          "title": "Bài thi online 1 - Phân từ",
+          "order": "50",
+          "groups": [
+            {
+              "title": null,
+              "items": [
+                {
+                  "kind": "question",
+                  "label": "DE 1",
+                  "src": "part-5-6/50-bai-thi-online-1-phan-tu/de-1.pdf",
+                  "bytes": 219364
+                },
+                {
+                  "kind": "answer",
+                  "label": "DA 1",
+                  "src": "part-5-6/50-bai-thi-online-1-phan-tu/da-1.pdf",
+                  "bytes": 644867
+                }
+              ],
+              "exam": {
+                "questions": 30,
+                "options": 4,
+                "seconds": 1798,
+                "key": "BADACDBCCDACCBDDCDBCADBBACBBDD",
+                "cards": 30
+              }
+            }
+          ]
+        },
+        {
+          "id": "part-5-6/51-bai-thi-online-2-phan-tu",
+          "slug": "51-bai-thi-online-2-phan-tu",
+          "title": "Bài thi online 2 - Phân từ",
+          "order": "51",
+          "groups": [
+            {
+              "title": null,
+              "items": [
+                {
+                  "kind": "question",
+                  "label": "DE 2",
+                  "src": "part-5-6/51-bai-thi-online-2-phan-tu/de-2.pdf",
+                  "bytes": 222296
+                },
+                {
+                  "kind": "answer",
+                  "label": "DA 2",
+                  "src": "part-5-6/51-bai-thi-online-2-phan-tu/da-2.pdf",
+                  "bytes": 650687
+                }
+              ],
+              "exam": {
+                "questions": 30,
+                "options": 4,
+                "seconds": 1790,
+                "key": "DBACABCBCBBDADCBCDADBCDCDCADBC",
+                "cards": 30
+              }
+            }
+          ]
+        },
+        {
+          "id": "part-5-6/52-bai-thi-online-3-phan-tu",
+          "slug": "52-bai-thi-online-3-phan-tu",
+          "title": "Bài thi online 3 - Phân từ",
+          "order": "52",
+          "groups": [
+            {
+              "title": null,
+              "items": [
+                {
+                  "kind": "question",
+                  "label": "DE 3",
+                  "src": "part-5-6/52-bai-thi-online-3-phan-tu/de-3.pdf",
+                  "bytes": 254397
+                },
+                {
+                  "kind": "answer",
+                  "label": "DA 3",
+                  "src": "part-5-6/52-bai-thi-online-3-phan-tu/da-3.pdf",
+                  "bytes": 721192
+                }
+              ],
+              "exam": {
+                "questions": 28,
+                "options": 4,
+                "seconds": 1796
+              }
+            }
+          ]
+        },
+        {
+          "id": "part-5-6/53-thi-online-part-5-6",
+          "slug": "53-thi-online-part-5-6",
+          "title": "Thi online - Part 5 (6)",
+          "order": "53",
+          "groups": [
+            {
+              "title": null,
+              "items": [
+                {
+                  "kind": "question",
+                  "label": "DE 4",
+                  "src": "part-5-6/53-thi-online-part-5-6/de-4.pdf",
+                  "bytes": 274926
+                }
+              ],
+              "exam": {
+                "questions": 40,
+                "options": 4,
+                "seconds": 277
+              }
+            }
+          ]
+        },
+        {
+          "id": "part-5-6/54-thi-online-part-6-7",
+          "slug": "54-thi-online-part-6-7",
+          "title": "Thi online - Part 6 (7)",
+          "order": "54",
+          "groups": [
+            {
+              "title": null,
+              "items": [
+                {
+                  "kind": "question",
+                  "label": "DE 5",
+                  "src": "part-5-6/54-thi-online-part-6-7/de-5.pdf",
+                  "bytes": 142580
+                },
+                {
+                  "kind": "answer",
+                  "label": "DA 5",
+                  "src": "part-5-6/54-thi-online-part-6-7/da-5.pdf",
+                  "bytes": 474039
+                }
+              ],
+              "exam": {
+                "questions": 12,
+                "options": 4,
+                "seconds": 893,
+                "key": "DCBBCAADDDAB",
+                "cards": 12
+              }
+            }
+          ]
+        },
+        {
+          "id": "part-5-6/55-part-5-6-prepposition",
+          "slug": "55-part-5-6-prepposition",
+          "title": "(Part 5-6). Prepposition",
+          "order": "55",
+          "groups": [
+            {
+              "title": null,
+              "items": [
+                {
+                  "kind": "question",
+                  "label": "Thi online 1 Unit 8",
+                  "src": "part-5-6/55-part-5-6-prepposition/thi-online-1-unit-8.pdf",
+                  "bytes": 145153
+                },
+                {
+                  "kind": "question",
+                  "label": "Thi online 2 Unit 8",
+                  "src": "part-5-6/55-part-5-6-prepposition/thi-online-2-unit-8.pdf",
+                  "bytes": 147081
+                },
+                {
+                  "kind": "question",
+                  "label": "Thi online 3 Unit 8",
+                  "src": "part-5-6/55-part-5-6-prepposition/thi-online-3-unit-8.pdf",
+                  "bytes": 94318
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "part-5-6/56-bai-thi-online-1-gioi-tu",
+          "slug": "56-bai-thi-online-1-gioi-tu",
+          "title": "Bài thi online 1 - Giới từ",
+          "order": "56",
+          "groups": [
+            {
+              "title": null,
+              "items": [
+                {
+                  "kind": "question",
+                  "label": "DE 1",
+                  "src": "part-5-6/56-bai-thi-online-1-gioi-tu/de-1.pdf",
+                  "bytes": 218180
+                },
+                {
+                  "kind": "answer",
+                  "label": "DA 1",
+                  "src": "part-5-6/56-bai-thi-online-1-gioi-tu/da-1.pdf",
+                  "bytes": 626040
+                }
+              ],
+              "exam": {
+                "questions": 30,
+                "options": 4,
+                "seconds": 1791,
+                "key": "CACBBCBBCCBCCCBBAADDBACABACCBB",
+                "cards": 30
+              }
+            }
+          ]
+        },
+        {
+          "id": "part-5-6/57-bai-thi-online-2-gioi-tu",
+          "slug": "57-bai-thi-online-2-gioi-tu",
+          "title": "Bài thi online 2 - Giới từ",
+          "order": "57",
+          "groups": [
+            {
+              "title": null,
+              "items": [
+                {
+                  "kind": "question",
+                  "label": "DE 2",
+                  "src": "part-5-6/57-bai-thi-online-2-gioi-tu/de-2.pdf",
+                  "bytes": 228117
+                },
+                {
+                  "kind": "answer",
+                  "label": "DA 2",
+                  "src": "part-5-6/57-bai-thi-online-2-gioi-tu/da-2.pdf",
+                  "bytes": 691424
+                }
+              ],
+              "exam": {
+                "questions": 30,
+                "options": 4,
+                "key": "BBCCCBADBBABBBACCAABDCCBCBDBAB",
+                "cards": 30
+              }
+            }
+          ]
+        },
+        {
+          "id": "part-5-6/58-bai-thi-online-3-gioi-tu",
+          "slug": "58-bai-thi-online-3-gioi-tu",
+          "title": "Bài thi online 3 - Giới từ",
+          "order": "58",
+          "groups": [
+            {
+              "title": null,
+              "items": [
+                {
+                  "kind": "question",
+                  "label": "DE 3",
+                  "src": "part-5-6/58-bai-thi-online-3-gioi-tu/de-3.pdf",
+                  "bytes": 228427
+                },
+                {
+                  "kind": "answer",
+                  "label": "DA 3",
+                  "src": "part-5-6/58-bai-thi-online-3-gioi-tu/da-3.pdf",
+                  "bytes": 695905
+                }
+              ],
+              "exam": {
+                "questions": 30,
+                "options": 4,
+                "seconds": 1793,
+                "key": "CBBACDCDCACADBCCABDDADDDCBABAA",
+                "cards": 30
+              }
+            }
+          ]
+        },
+        {
+          "id": "part-5-6/59-thi-online-part-5-7",
+          "slug": "59-thi-online-part-5-7",
+          "title": "Thi online - Part 5 (7)",
+          "order": "59",
+          "groups": [
+            {
+              "title": null,
+              "items": [
+                {
+                  "kind": "question",
+                  "label": "DE 4",
+                  "src": "part-5-6/59-thi-online-part-5-7/de-4.pdf",
+                  "bytes": 278607
+                },
+                {
+                  "kind": "answer",
+                  "label": "DA 4",
+                  "src": "part-5-6/59-thi-online-part-5-7/da-4.pdf",
+                  "bytes": 1435094
+                }
+              ],
+              "exam": {
+                "questions": 40,
+                "options": 4,
+                "seconds": 1449,
+                "key": "DBADCBCACDADBACDADACBADBDADACBDBCACCCDBA",
+                "cards": 39
+              }
+            }
+          ]
+        },
+        {
+          "id": "part-5-6/60-thi-online-part-6-8",
+          "slug": "60-thi-online-part-6-8",
+          "title": "Thi online - Part 6 (8)",
+          "order": "60",
+          "groups": [
+            {
+              "title": null,
+              "items": [
+                {
+                  "kind": "question",
+                  "label": "DE 5",
+                  "src": "part-5-6/60-thi-online-part-6-8/de-5.pdf",
+                  "bytes": 168671
+                },
+                {
+                  "kind": "answer",
+                  "label": "DA 5",
+                  "src": "part-5-6/60-thi-online-part-6-8/da-5.pdf",
+                  "bytes": 488431
+                }
+              ],
+              "exam": {
+                "questions": 12,
+                "options": 4,
+                "seconds": 861,
+                "key": "CBACBDCDBACA",
+                "cards": 12
+              }
+            }
+          ]
+        },
+        {
+          "id": "part-5-6/61-part-5-6-conditionals-and-comparison",
+          "slug": "61-part-5-6-conditionals-and-comparison",
+          "title": "(Part 5-6). Conditionals and comparison",
+          "order": "61",
+          "groups": [
+            {
+              "title": null,
+              "items": [
+                {
+                  "kind": "question",
+                  "label": "Thi online 1 Unit 9",
+                  "src": "part-5-6/61-part-5-6-conditionals-and-comparison/thi-online-1-unit-9.pdf",
+                  "bytes": 148356
+                },
+                {
+                  "kind": "question",
+                  "label": "Thi online 2 Unit 9",
+                  "src": "part-5-6/61-part-5-6-conditionals-and-comparison/thi-online-2-unit-9.pdf",
+                  "bytes": 157915
+                },
+                {
+                  "kind": "question",
+                  "label": "Thi online 3 Unit 9",
+                  "src": "part-5-6/61-part-5-6-conditionals-and-comparison/thi-online-3-unit-9.pdf",
+                  "bytes": 148939
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "part-5-6/62-bai-thi-online-1-conditionals-and-comparison",
+          "slug": "62-bai-thi-online-1-conditionals-and-comparison",
+          "title": "Bài thi online 1 - Conditionals and comparison",
+          "order": "62",
+          "groups": [
+            {
+              "title": null,
+              "items": [
+                {
+                  "kind": "question",
+                  "label": "DE 1",
+                  "src": "part-5-6/62-bai-thi-online-1-conditionals-and-comparison/de-1.pdf",
+                  "bytes": 224070
+                },
+                {
+                  "kind": "answer",
+                  "label": "DA 1",
+                  "src": "part-5-6/62-bai-thi-online-1-conditionals-and-comparison/da-1.pdf",
+                  "bytes": 648970
+                }
+              ],
+              "exam": {
+                "questions": 30,
+                "options": 4,
+                "seconds": 1788,
+                "key": "CDACBBCDABDBCCBDCABDCBCDCCCBAC",
+                "cards": 30
+              }
+            }
+          ]
+        },
+        {
+          "id": "part-5-6/63-bai-thi-online-2-conditionals-and-comparison",
+          "slug": "63-bai-thi-online-2-conditionals-and-comparison",
+          "title": "Bài thi online 2 - Conditionals and comparison",
+          "order": "63",
+          "groups": [
+            {
+              "title": null,
+              "items": [
+                {
+                  "kind": "question",
+                  "label": "DE 2",
+                  "src": "part-5-6/63-bai-thi-online-2-conditionals-and-comparison/de-2.pdf",
+                  "bytes": 222977
+                },
+                {
+                  "kind": "answer",
+                  "label": "DA 2",
+                  "src": "part-5-6/63-bai-thi-online-2-conditionals-and-comparison/da-2.pdf",
+                  "bytes": 650941
+                }
+              ],
+              "exam": {
+                "questions": 30,
+                "options": 4,
+                "seconds": 1789,
+                "key": "BDBCABDACBCBDBDCDACACADACDCCBD",
+                "cards": 30
+              }
+            }
+          ]
+        },
+        {
+          "id": "part-5-6/64-bai-thi-online-3-conditionals-and-comparison",
+          "slug": "64-bai-thi-online-3-conditionals-and-comparison",
+          "title": "Bài thi online 3 - Conditionals and comparison",
+          "order": "64",
+          "groups": [
+            {
+              "title": null,
+              "items": [
+                {
+                  "kind": "question",
+                  "label": "DE 3",
+                  "src": "part-5-6/64-bai-thi-online-3-conditionals-and-comparison/de-3.pdf",
+                  "bytes": 226383
+                },
+                {
+                  "kind": "answer",
+                  "label": "DA 3",
+                  "src": "part-5-6/64-bai-thi-online-3-conditionals-and-comparison/da-3.pdf",
+                  "bytes": 716859
+                }
+              ],
+              "exam": {
+                "questions": 30,
+                "options": 4,
+                "seconds": 1792,
+                "key": "BCCDDCBABBBABDACDBADBCDCCABBDC",
+                "cards": 30
+              }
+            }
+          ]
+        },
+        {
+          "id": "part-5-6/65-thi-online-part-5-8",
+          "slug": "65-thi-online-part-5-8",
+          "title": "Thi online - Part 5 (8)",
+          "order": "65",
+          "groups": [
+            {
+              "title": null,
+              "items": [
+                {
+                  "kind": "question",
+                  "label": "DE 4",
+                  "src": "part-5-6/65-thi-online-part-5-8/de-4.pdf",
+                  "bytes": 276022
+                },
+                {
+                  "kind": "answer",
+                  "label": "DA 4",
+                  "src": "part-5-6/65-thi-online-part-5-8/da-4.pdf",
+                  "bytes": 1536717
+                }
+              ],
+              "exam": {
+                "questions": 40,
+                "options": 4,
+                "seconds": 1478,
+                "key": "ACDADBABCABACADAABCADAAABCBACDBCDABDCCAD",
+                "cards": 40
+              }
+            }
+          ]
+        },
+        {
+          "id": "part-5-6/66-thi-online-part-6-9",
+          "slug": "66-thi-online-part-6-9",
+          "title": "Thi online - Part 6 (9)",
+          "order": "66",
+          "groups": [
+            {
+              "title": null,
+              "items": [
+                {
+                  "kind": "question",
+                  "label": "DE 5",
+                  "src": "part-5-6/66-thi-online-part-6-9/de-5.pdf",
+                  "bytes": 158823
+                },
+                {
+                  "kind": "answer",
+                  "label": "DA 5",
+                  "src": "part-5-6/66-thi-online-part-6-9/da-5.pdf",
+                  "bytes": 419272
+                }
+              ],
+              "exam": {
+                "questions": 12,
+                "options": 4,
+                "seconds": 897,
+                "key": "ADBBBDCADCBD",
+                "cards": 12
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "part-7",
+      "title": "PART 7",
+      "order": null,
+      "lessons": [
+        {
+          "id": "part-7/01-part-7-introduction-to-part-7",
+          "slug": "01-part-7-introduction-to-part-7",
+          "title": "(Part 7) Introduction to Part 7",
+          "order": "01",
+          "groups": [
+            {
+              "title": null,
+              "items": [
+                {
+                  "kind": "theory",
+                  "label": "Unit 1 Part 7",
+                  "src": "part-7/01-part-7-introduction-to-part-7/unit-1-part-7.pdf",
+                  "bytes": 266666
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "part-7/02-thi-online-part-7-1",
+          "slug": "02-thi-online-part-7-1",
+          "title": "Thi online - Part 7 (1)",
+          "order": "02",
+          "groups": [
+            {
+              "title": null,
+              "items": [
+                {
+                  "kind": "question",
+                  "label": "DE 1",
+                  "src": "part-7/02-thi-online-part-7-1/de-1.pdf",
+                  "bytes": 499394
+                },
+                {
+                  "kind": "answer",
+                  "label": "DA 1",
+                  "src": "part-7/02-thi-online-part-7-1/da-1.pdf",
+                  "bytes": 1901956
+                }
+              ],
+              "exam": {
+                "questions": 48,
+                "options": 4,
+                "seconds": 2076,
+                "key": "BDABBABBADDBBADACCBDCADCCBCDDAACBCCBCBCADABBAAAB"
+              }
+            }
+          ]
+        },
+        {
+          "id": "part-7/03-thi-online-part-7-2",
+          "slug": "03-thi-online-part-7-2",
+          "title": "Thi online - Part 7 (2)",
+          "order": "03",
+          "groups": [
+            {
+              "title": null,
+              "items": [
+                {
+                  "kind": "question",
+                  "label": "DE 2",
+                  "src": "part-7/03-thi-online-part-7-2/de-2.pdf",
+                  "bytes": 503321
+                },
+                {
+                  "kind": "answer",
+                  "label": "DA 2",
+                  "src": "part-7/03-thi-online-part-7-2/da-2.pdf",
+                  "bytes": 1927795
+                }
+              ],
+              "exam": {
+                "questions": 48,
+                "options": 4,
+                "seconds": 2080,
+                "key": "DADCDBDCACAADABDBCACCBDDBBCBBABABCDADBCADCCBBAAA"
+              }
+            }
+          ]
+        },
+        {
+          "id": "part-7/04-part-7-email-letter-fax",
+          "slug": "04-part-7-email-letter-fax",
+          "title": "(Part 7)Email,Letter,Fax",
+          "order": "04",
+          "groups": [
+            {
+              "title": null,
+              "items": [
+                {
+                  "kind": "theory",
+                  "label": "Unit 2 Part 7",
+                  "src": "part-7/04-part-7-email-letter-fax/unit-2-part-7.pdf",
+                  "bytes": 324815
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "part-7/05-thi-online-part-7-3",
+          "slug": "05-thi-online-part-7-3",
+          "title": "Thi online - Part 7 (3)",
+          "order": "05",
+          "groups": [
+            {
+              "title": null,
+              "items": [
+                {
+                  "kind": "question",
+                  "label": "ĐỀ(1)",
+                  "src": "part-7/05-thi-online-part-7-3/de-1.pdf",
+                  "bytes": 331340
+                },
+                {
+                  "kind": "answer",
+                  "label": "ĐA(1)",
+                  "src": "part-7/05-thi-online-part-7-3/da-1.pdf",
+                  "bytes": 1621888
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "part-7/06-thi-online-part-7-4",
+          "slug": "06-thi-online-part-7-4",
+          "title": "Thi online - Part 7 (4)",
+          "order": "06",
+          "groups": [
+            {
+              "title": null,
+              "items": [
+                {
+                  "kind": "question",
+                  "label": "ĐỀpdf",
+                  "src": "part-7/06-thi-online-part-7-4/depdf.pdf",
+                  "bytes": 309883
+                },
+                {
+                  "kind": "answer",
+                  "label": "ĐA(2)",
+                  "src": "part-7/06-thi-online-part-7-4/da-2.pdf",
+                  "bytes": 874055
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "part-7/07-part-7-memo-notice-announcement",
+          "slug": "07-part-7-memo-notice-announcement",
+          "title": "(Part 7)Memo,Notice,Announcement",
+          "order": "07",
+          "groups": [
+            {
+              "title": null,
+              "items": [
+                {
+                  "kind": "theory",
+                  "label": "Unit 3 Part 7",
+                  "src": "part-7/07-part-7-memo-notice-announcement/unit-3-part-7.pdf",
+                  "bytes": 287182
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "part-7/08-thi-online-part-7-5",
+          "slug": "08-thi-online-part-7-5",
+          "title": "Thi online - Part 7 (5)",
+          "order": "08",
+          "groups": [
+            {
+              "title": null,
+              "items": [
+                {
+                  "kind": "question",
+                  "label": "ĐỀ",
+                  "src": "part-7/08-thi-online-part-7-5/de.pdf",
+                  "bytes": 305156
+                },
+                {
+                  "kind": "answer",
+                  "label": "ĐA(1) (1)",
+                  "src": "part-7/08-thi-online-part-7-5/da-1-1.pdf",
+                  "bytes": 1073071
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "part-7/09-thi-online-part-7-6",
+          "slug": "09-thi-online-part-7-6",
+          "title": "Thi online - Part 7 (6)",
+          "order": "09",
+          "groups": [
+            {
+              "title": null,
+              "items": [
+                {
+                  "kind": "question",
+                  "label": "ĐỀ (1)",
+                  "src": "part-7/09-thi-online-part-7-6/de-1.pdf",
+                  "bytes": 303998
+                },
+                {
+                  "kind": "answer",
+                  "label": "ĐA(2) (1)",
+                  "src": "part-7/09-thi-online-part-7-6/da-2-1.pdf",
+                  "bytes": 1207810
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "part-7/15-thi-online-part-7-10",
+          "slug": "15-thi-online-part-7-10",
+          "title": "Thi online - Part 7 (10)",
+          "order": "15",
+          "groups": [
+            {
+              "title": null,
+              "items": [
+                {
+                  "kind": "question",
+                  "label": "DE",
+                  "src": "part-7/15-thi-online-part-7-10/de.pdf",
+                  "bytes": 445401
+                },
+                {
+                  "kind": "question",
+                  "label": "Đề (3)",
+                  "src": "part-7/15-thi-online-part-7-10/de-3.pdf",
+                  "bytes": 378202
+                },
+                {
+                  "kind": "answer",
+                  "label": "DA",
+                  "src": "part-7/15-thi-online-part-7-10/da.pdf",
+                  "bytes": 8644129
+                },
+                {
+                  "kind": "answer",
+                  "label": "ĐA(7)",
+                  "src": "part-7/15-thi-online-part-7-10/da-7.pdf",
+                  "bytes": 1619126
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

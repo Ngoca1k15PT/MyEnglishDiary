@@ -1,0 +1,17 @@
+{
+  "hosting": {
+    "site": "toeic-media-76585976c3",
+    "public": "media",
+    "ignore": ["**/.*"],
+    "headers": [
+      {
+        "source": "**",
+        "headers": [
+          { "key": "Cache-Control", "value": "public, max-age=31536000" },
+          { "key": "X-Robots-Tag", "value": "noindex, nofollow" },
+          { "key": "Access-Control-Allow-Origin", "value": "*" }
+        ]
+      }
+    ]
+  }
+}

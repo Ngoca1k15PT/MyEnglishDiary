@@ -1,0 +1,314 @@
+@import "tailwindcss" source(none);
+@source "../src";
+@import "tw-animate-css";
+
+@custom-variant dark (&:is(.dark *));
+
+/*
+ * Design system definition.
+ *
+ * The @theme inline block maps CSS custom properties to Tailwind utility
+ * classes (e.g. --color-primary -> bg-primary, text-primary).
+ *
+ * The :root and .dark blocks define the actual color values using oklch.
+ * All colors MUST use oklch format.
+ *
+ * To add a new semantic color:
+ * 1. Add the variable to :root (light value) and .dark (dark value)
+ * 2. Register it in @theme inline as --color-<name>: var(--<name>)
+ */
+
+@theme inline {
+  --radius-sm: calc(var(--radius) - 4px);
+  --radius-md: calc(var(--radius) - 2px);
+  --radius-lg: var(--radius);
+  --radius-xl: calc(var(--radius) + 4px);
+  --radius-2xl: calc(var(--radius) + 8px);
+  --radius-3xl: calc(var(--radius) + 12px);
+  --radius-4xl: calc(var(--radius) + 16px);
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-card: var(--card);
+  --color-card-foreground: var(--card-foreground);
+  --color-popover: var(--popover);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-secondary: var(--secondary);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-accent: var(--accent);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-destructive: var(--destructive);
+  --color-destructive-foreground: var(--destructive-foreground);
+  --color-border: var(--border);
+  --color-input: var(--input);
+  --color-ring: var(--ring);
+  --color-ring-offset-background: var(--background);
+  --color-chart-1: var(--chart-1);
+  --color-chart-2: var(--chart-2);
+  --color-chart-3: var(--chart-3);
+  --color-chart-4: var(--chart-4);
+  --color-chart-5: var(--chart-5);
+  --color-sidebar: var(--sidebar);
+  --color-sidebar-foreground: var(--sidebar-foreground);
+  --color-sidebar-primary: var(--sidebar-primary);
+  --color-sidebar-primary-foreground: var(--sidebar-primary-foreground);
+  --color-sidebar-accent: var(--sidebar-accent);
+  --color-sidebar-accent-foreground: var(--sidebar-accent-foreground);
+  --color-sidebar-border: var(--sidebar-border);
+  --color-sidebar-ring: var(--sidebar-ring);
+  --color-star-done: var(--star-done);
+  --color-star-done-deep: var(--star-done-deep);
+  --color-star-doing: var(--star-doing);
+  --color-star-dim: var(--star-dim);
+  --color-star-dim-fill: var(--star-dim-fill);
+  --color-star-label: var(--star-label);
+  --color-star-label-locked: var(--star-label-locked);
+  --color-star-dust: var(--star-dust);
+  --color-study-video: var(--study-video);
+  --color-study-article: var(--study-article);
+  --color-study-practice: var(--study-practice);
+  --color-study-audio: var(--study-audio);
+  --color-center-core: var(--center-core);
+
+  --font-sans: "Be Vietnam Pro", ui-sans-serif, system-ui, sans-serif;
+  --animate-twinkle: twinkle 6s ease-in-out infinite;
+  --animate-pulse-ring: pulse-ring 2.4s ease-in-out infinite;
+  --animate-star-breathe: star-breathe 5.5s ease-in-out infinite;
+  --animate-drift: drift 60s linear infinite;
+}
+
+@keyframes twinkle {
+  0%,
+  100% {
+    opacity: 0.18;
+  }
+  50% {
+    opacity: 0.6;
+  }
+}
+
+@keyframes pulse-ring {
+  0%,
+  100% {
+    opacity: 0.55;
+  }
+  50% {
+    opacity: 1;
+  }
+}
+
+/* lấp lánh rất nhẹ cho sao đã sáng */
+@keyframes star-breathe {
+  0%,
+  100% {
+    opacity: 0.82;
+  }
+  50% {
+    opacity: 1;
+  }
+}
+
+@keyframes drift {
+  0% {
+    transform: translate(0, 0);
+  }
+  50% {
+    transform: translate(26px, -18px);
+  }
+  100% {
+    transform: translate(0, 0);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.001ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.001ms !important;
+  }
+}
+
+:root {
+  --radius: 0.75rem;
+  --background: oklch(0.2 0.045 264);
+  --foreground: oklch(0.96 0.012 250);
+  --card: oklch(0.24 0.05 264);
+  --card-foreground: oklch(0.96 0.012 250);
+  --popover: oklch(0.24 0.05 264);
+  --popover-foreground: oklch(0.96 0.012 250);
+  --primary: oklch(0.72 0.14 250);
+  --primary-foreground: oklch(0.16 0.05 264);
+  --secondary: oklch(0.29 0.05 264);
+  --secondary-foreground: oklch(0.96 0.012 250);
+  --muted: oklch(0.29 0.05 264);
+  --muted-foreground: oklch(0.78 0.028 258);
+  --accent: oklch(0.33 0.055 264);
+  --accent-foreground: oklch(0.97 0.012 250);
+  --destructive: oklch(0.58 0.2 22);
+  --destructive-foreground: oklch(0.97 0.01 250);
+  --border: oklch(0.38 0.045 264);
+  --input: oklch(0.38 0.045 264);
+  --ring: oklch(0.72 0.14 250);
+  --chart-1: oklch(0.72 0.14 250);
+  --chart-2: oklch(0.85 0.14 88);
+  --chart-3: oklch(0.7 0.13 190);
+  --chart-4: oklch(0.68 0.16 320);
+  --chart-5: oklch(0.75 0.15 40);
+  --sidebar: oklch(0.22 0.045 264);
+  --sidebar-foreground: oklch(0.96 0.012 250);
+  --sidebar-primary: oklch(0.72 0.14 250);
+  --sidebar-primary-foreground: oklch(0.16 0.05 264);
+  --sidebar-accent: oklch(0.33 0.055 264);
+  --sidebar-accent-foreground: oklch(0.97 0.012 250);
+  --sidebar-border: oklch(0.38 0.045 264);
+  --sidebar-ring: oklch(0.72 0.14 250);
+
+  --star-done: oklch(0.87 0.14 92);
+  --star-done-deep: oklch(0.76 0.16 68);
+  --star-doing: oklch(0.82 0.11 225);
+  --star-dim: #4a5e8a;
+  --star-dim-fill: #16203a;
+  --star-label: #d6def0;
+  --star-label-locked: #93a3c4;
+  --label-pill: #0b1226;
+  --label-pill-op: 0.72;
+  --line-dim: #ffffff;
+  --line-op: 0.22;
+  --star-stroke-w: 2;
+  --locked-op: 0.55;
+  --star-dust: oklch(0.8 0.03 250);
+  --center-core: oklch(0.27 0.06 264);
+  --sky-export-bg: #0f1729;
+  --sky-glow-1: oklch(0.33 0.06 268 / 0.85);
+  --sky-glow-2: oklch(0.3 0.07 300 / 0.45);
+  --study-video: oklch(0.72 0.15 22);
+  --study-article: oklch(0.74 0.13 235);
+  --study-practice: oklch(0.82 0.14 88);
+  --study-audio: oklch(0.74 0.14 305);
+}
+
+/* Giao diện Ngày */
+.day {
+  --background: oklch(0.975 0.008 90);
+  --foreground: oklch(0.24 0.03 262);
+  --card: oklch(0.995 0.005 90);
+  --card-foreground: oklch(0.24 0.03 262);
+  --popover: oklch(0.995 0.005 90);
+  --popover-foreground: oklch(0.24 0.03 262);
+  --primary: oklch(0.55 0.14 255);
+  --primary-foreground: oklch(0.99 0.005 90);
+  --secondary: oklch(0.93 0.01 90);
+  --secondary-foreground: oklch(0.26 0.03 262);
+  --muted: oklch(0.93 0.01 90);
+  --muted-foreground: oklch(0.44 0.025 262);
+  --accent: oklch(0.91 0.015 90);
+  --accent-foreground: oklch(0.24 0.03 262);
+  --border: oklch(0.82 0.015 262);
+  --input: oklch(0.82 0.015 262);
+  --sidebar: oklch(0.955 0.008 90);
+  --sidebar-foreground: oklch(0.24 0.03 262);
+  --sidebar-primary: oklch(0.55 0.14 255);
+  --sidebar-primary-foreground: oklch(0.99 0.005 90);
+  --sidebar-accent: oklch(0.91 0.015 90);
+  --sidebar-accent-foreground: oklch(0.24 0.03 262);
+  --sidebar-border: oklch(0.82 0.015 262);
+  --sidebar-ring: oklch(0.55 0.14 255);
+
+  --star-done: oklch(0.72 0.17 62);
+  --star-done-deep: oklch(0.62 0.18 48);
+  --star-doing: oklch(0.55 0.14 250);
+  --star-dim: #4b5563;
+  --star-dim-fill: #ffffff;
+  --star-label: #1f2937;
+  --star-label-locked: #5b6675;
+  --label-pill: #ffffff;
+  --label-pill-op: 0.8;
+  --line-dim: #334155;
+  --line-op: 0.35;
+  --locked-op: 0.6;
+  --star-dust: oklch(0.6 0.03 250);
+  --center-core: oklch(0.96 0.012 90);
+  --sky-export-bg: #faf7f0;
+  --sky-glow-1: oklch(0.99 0.02 90 / 0.9);
+  --sky-glow-2: oklch(0.94 0.03 250 / 0.5);
+  --study-video: oklch(0.55 0.19 25);
+  --study-article: oklch(0.5 0.16 250);
+  --study-practice: oklch(0.55 0.14 75);
+  --study-audio: oklch(0.5 0.17 305);
+}
+
+.dark {
+  --background: oklch(0.129 0.042 264.695);
+  --foreground: oklch(0.984 0.003 247.858);
+  --card: oklch(0.208 0.042 265.755);
+  --card-foreground: oklch(0.984 0.003 247.858);
+  --popover: oklch(0.208 0.042 265.755);
+  --popover-foreground: oklch(0.984 0.003 247.858);
+  --primary: oklch(0.929 0.013 255.508);
+  --primary-foreground: oklch(0.208 0.042 265.755);
+  --secondary: oklch(0.279 0.041 260.031);
+  --secondary-foreground: oklch(0.984 0.003 247.858);
+  --muted: oklch(0.279 0.041 260.031);
+  --muted-foreground: oklch(0.704 0.04 256.788);
+  --accent: oklch(0.279 0.041 260.031);
+  --accent-foreground: oklch(0.984 0.003 247.858);
+  --destructive: oklch(0.704 0.191 22.216);
+  --destructive-foreground: oklch(0.984 0.003 247.858);
+  --border: oklch(1 0 0 / 10%);
+  --input: oklch(1 0 0 / 15%);
+  --ring: oklch(0.551 0.027 264.364);
+  --chart-1: oklch(0.488 0.243 264.376);
+  --chart-2: oklch(0.696 0.17 162.48);
+  --chart-3: oklch(0.769 0.188 70.08);
+  --chart-4: oklch(0.627 0.265 303.9);
+  --chart-5: oklch(0.645 0.246 16.439);
+  --sidebar: oklch(0.208 0.042 265.755);
+  --sidebar-foreground: oklch(0.984 0.003 247.858);
+  --sidebar-primary: oklch(0.488 0.243 264.376);
+  --sidebar-primary-foreground: oklch(0.984 0.003 247.858);
+  --sidebar-accent: oklch(0.279 0.041 260.031);
+  --sidebar-accent-foreground: oklch(0.984 0.003 247.858);
+  --sidebar-border: oklch(1 0 0 / 10%);
+  --sidebar-ring: oklch(0.551 0.027 264.364);
+}
+
+/*
+ * Ẩn thanh cuộn nhưng GIỮ khả năng cuộn (bánh xe, vuốt, phím, kéo thanh trượt).
+ * Dùng cho các panel nổi trong app, nơi thanh cuộn hệ điều hành cắt ngang bo góc
+ * trông rất thô. Đừng dùng cho vùng nội dung dài mà người đọc cần biết còn bao
+ * nhiêu nữa — mất thanh cuộn là mất luôn tín hiệu đó.
+ */
+@utility no-scrollbar {
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+  &::-webkit-scrollbar {
+    display: none;
+  }
+}
+
+@utility bg-night {
+  background-color: var(--background);
+}
+
+@utility bg-night-glow {
+  background:
+    radial-gradient(ellipse 85% 70% at 50% 45%, var(--sky-glow-1), transparent 72%),
+    radial-gradient(ellipse 60% 50% at 15% 92%, var(--sky-glow-2), transparent 70%);
+}
+
+@layer base {
+  * {
+    border-color: var(--color-border);
+  }
+
+  body {
+    font-family: var(--font-sans);
+    background-color: var(--color-background);
+    color: var(--color-foreground);
+  }
+}
