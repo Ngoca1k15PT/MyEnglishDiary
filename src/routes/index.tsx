@@ -3,12 +3,13 @@ import { useEffect, useMemo, useRef, useState } from "react";
 import {
   Layers,
   RotateCcw,
-  Sparkles,
   Moon,
   Sun,
   SlidersHorizontal,
   BarChart3,
   GraduationCap,
+  PanelLeftClose,
+  PanelLeftOpen,
 } from "lucide-react";
 import { StarMap, type StarMapHandle } from "@/components/star-map";
 import { DetailPanel } from "@/components/detail-panel";
@@ -86,6 +87,8 @@ function Index() {
   const [sky, setSky] = useState<Sky>("night");
   const [contrast, setContrast] = useState(0.3);
   const [settingsOpen, setSettingsOpen] = useState(false);
+  /** Cột thẻ bên trái. Chỉ có tác dụng dưới md — từ md trở lên cột luôn hiện. */
+  const [cardsOpen, setCardsOpen] = useState(true);
   const [vocabUnlockAll, setVocabUnlockAll] = useState(false);
   const [coursePlan, setCoursePlan] = useState<PlanSummary | null>(null);
 
@@ -103,6 +106,8 @@ function Index() {
     if (c) setContrast(Number(c));
     setVocabUnlockAll(localStorage.getItem("bdi-vocab-unlock-all") === "1");
     setIeltsEarly(localStorage.getItem("bdi-ielts-early") === "1");
+    // Mặc định mở, chỉ đóng nếu lần trước người dùng tự đóng.
+    setCardsOpen(localStorage.getItem("bdi-cards-open") !== "0");
     setCoursePlan(readPlanSummary());
     setSettingsLoaded(true);
   }, []);
@@ -112,7 +117,8 @@ function Index() {
     localStorage.setItem("bdi-contrast", String(contrast));
     localStorage.setItem("bdi-vocab-unlock-all", vocabUnlockAll ? "1" : "0");
     localStorage.setItem("bdi-ielts-early", ieltsEarly ? "1" : "0");
-  }, [settingsLoaded, sky, contrast, vocabUnlockAll, ieltsEarly]);
+    localStorage.setItem("bdi-cards-open", cardsOpen ? "1" : "0");
+  }, [settingsLoaded, sky, contrast, vocabUnlockAll, ieltsEarly, cardsOpen]);
 
   // mặc định mở lên là chòm TOEIC — mục tiêu trước mắt
   useEffect(() => {
@@ -255,10 +261,30 @@ function Index() {
 
       <header className="pointer-events-none absolute left-0 right-0 top-0 z-20 flex items-start justify-between gap-4 p-4 md:p-6">
         <div className="pointer-events-auto">
-          <h1 className="flex items-center gap-2 text-base font-semibold tracking-tight text-foreground md:text-lg">
-            <Sparkles size={18} className="text-star-done" />
-            Bản đồ IELTS
-          </h1>
+          <div className="flex items-center gap-2">
+            <h1 className="flex items-center gap-2 text-base font-semibold tracking-tight text-foreground md:text-lg">
+              <img
+                src="/logo-mark.png"
+                alt=""
+                width={22}
+                height={22}
+                className="shrink-0 rounded-md"
+              />
+              Bản đồ IELTS
+            </h1>
+            {/* Trên điện thoại cột thẻ chiếm 2/3 bề ngang và nuốt hết cú chạm,
+                nên phải có đường thu nó lại để còn kéo được bản đồ. Từ md trở
+                lên cột nằm cạnh bản đồ chứ không đè, nút này thừa nên ẩn đi. */}
+            <button
+              onClick={() => setCardsOpen((v) => !v)}
+              aria-expanded={cardsOpen}
+              aria-label={cardsOpen ? "Thu cột thẻ" : "Mở cột thẻ"}
+              title={cardsOpen ? "Thu cột thẻ" : "Mở cột thẻ"}
+              className="rounded-lg border border-border bg-card/70 p-1.5 text-muted-foreground backdrop-blur transition-colors hover:bg-accent hover:text-foreground md:hidden"
+            >
+              {cardsOpen ? <PanelLeftClose size={14} /> : <PanelLeftOpen size={14} />}
+            </button>
+          </div>
           <p className="mt-1 hidden max-w-xs text-xs leading-relaxed text-muted-foreground md:block">
             Mỗi ngôi sao là một bài học học ngay tại đây. Sao sáng theo kết quả bài bạn làm được,
             không phải theo nút bấm.
@@ -446,7 +472,11 @@ function Index() {
           một con số đoán trước sẽ sai mỗi khi có banner đẩy nó xuống.
           Khung ngoài không nhận chuột; lớp trong mới cuộn và mới chặn chuột, nên
           lúc ít thẻ nó co lại và bản đồ phía sau vẫn kéo được. */}
-      <div className="pointer-events-none absolute bottom-4 left-4 top-28 z-20 flex w-[min(16rem,calc(100vw-2rem))] flex-col md:top-44">
+      <div
+        className={`pointer-events-none absolute bottom-4 left-4 top-28 z-20 flex w-[min(16rem,calc(100vw-2rem))] flex-col transition-transform duration-300 ease-out md:top-44 md:translate-x-0 ${
+          cardsOpen ? "translate-x-0" : "-translate-x-[120%]"
+        }`}
+      >
         <div className="pointer-events-auto flex max-h-full flex-col gap-3 overflow-y-auto no-scrollbar overscroll-contain">
           {p.amnestyOffer && (
             <AmnestyCard
