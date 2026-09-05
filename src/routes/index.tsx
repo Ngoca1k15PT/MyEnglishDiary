@@ -270,7 +270,11 @@ function Index() {
                 height={22}
                 className="shrink-0 rounded-md"
               />
-              Bản đồ IELTS
+              {/* Điện thoại chỉ còn logo: hàng nút bên phải không chịu co, để cả
+                  dòng chữ ở đây là tiêu đề bị ép xuống ba dòng và đè lên nhau.
+                  sr-only chứ không phải hidden — giấu khỏi mắt nhưng trình đọc
+                  màn hình vẫn đọc được tên trang. */}
+              <span className="max-md:sr-only">Bản đồ IELTS</span>
             </h1>
             {/* Trên điện thoại cột thẻ chiếm 2/3 bề ngang và nuốt hết cú chạm,
                 nên phải có đường thu nó lại để còn kéo được bản đồ. Từ md trở
